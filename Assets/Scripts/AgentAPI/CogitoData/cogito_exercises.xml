@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+
+<id>neustart</id>
+
+<version>4.1.67</version>
+
+<entry>
+
+<name>Stimmung &amp; Selbstwert</name>
+
+<author>UKE</author>
+
+<localization>de</localization>
+
+<categories>
+
+<category>
+
+<title>Lebensfreude &amp; Neue Blickwinkel</title>
+
+<icon>sun</icon>
+
+<imgSrc>category/moodselfEsteem</imgSrc>
+
+<color>#285b9f</color>
+
+<exercises>
+
+<exercise>
+
+<id>de_1</id>
+
+<title>Abbau überzogener Maßstäbe</title>
+
+<subtitle>Hinterfragen Sie Ihre Maßstäbe</subtitle>
+
+<text>
+
+Nehmen Sie sich einen Moment Zeit und überlegen Sie, in welchen Bereichen Sie mit sich selbst besonders hart ins Gericht gehen.
+
+Viele Menschen haben überzogene Ansprüche an sich selbst, die sie unglücklich machen. Hohe Maßstäbe (z.B. sich keine Fehler bei der Arbeit zu erlauben, die Wohnung stets tadellos sauber zu halten) erzeugen einen großen Druck und wer sich die Messlatte zu hoch legt, wird diese häufig reißen, was zu Frustration und Unzufriedenheit führt.
+
+Oft hilft es, die Sichtweisen oder Meinungen anderer zu berücksichtigen. Überprüfen und hinterfragen Sie z.B. im Gespräch mit Vertrauenspersonen Ihre Ansprüche an sich selbst. Sich Schwächen sowie Ecken und Kanten zu erlauben, kann Erleichterung bringen und helfen, zufriedener mit sich selbst zu sein.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_2</id>
+
+<title>Zweierlei Maß</title>
+
+<subtitle>Lernen Sie, nicht mit zweierlei Maß zu messen</subtitle>
+
+<text>
+
+Menschen, die zu psychischen Problemen neigen, haben oftmals „doppelte Standards“ bei moralischen Bewertungen – häufig ohne dies zu wissen. Aufgrund entsprechender Erziehung wird eine höhere moralische Messlatte an sich selbst als an andere angelegt. Ist dies auch bei Ihnen der Fall?
+
+Stellen Sie sich zwei bis vier Missgeschicke der folgenden Art vor: Ihnen wird Geld gestohlen, weil Sie vielleicht die Autotür nicht abgeschlossen haben. Eine andere Situation könnte sein: Sie haben den Geburtstag eines guten Freundes vergessen. Überlegen Sie nun, wie hart und mitleidslos Sie vielleicht mit sich selbst ins Gericht gehen würden oder sogar schon gegangen sind in solchen Situationen.
+
+Wären Sie bei einem Freund, dem dasselbe passiert, genauso streng? Bei zukünftigem, tatsächlichem oder angeblichem Fehlverhalten versuchen Sie, sich selbst das zu sagen, was Sie in einer vergleichbaren Situation einem guten Freund erwidern würden. Wahrscheinlich würden Sie ihn trösten und gute Gründe nennen, weshalb sein Missgeschick verzeihlich ist.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_3</id>
+
+<title>Magisches Denken</title>
+
+<subtitle>Gedanken sind nicht „magisch“</subtitle>
+
+<text>
+
+Magisches Denken kann zu psychischen Problemen beitragen. Haben Sie manchmal das Gefühl, dass Ihre Gedanken Unheil heraufbeschwören können (z.B. einem Freund etwas Schlechtes zu wünschen, führt dazu, dass das Ereignis auch tatsächlich eintritt)?
+
+Machen Sie das folgende kleine Experiment. Nehmen Sie eine Feder oder einen anderen sehr leichten Gegenstand, wie z.B. ein Blatt Papier, und legen Sie diesen vor sich hin. Versuchen Sie nun, diesen Gegenstand allein mit Ihren Gedanken in eine bestimmte Richtung zu bewegen. Auch wenn Sie diese Übung vielleicht albern finden, probieren Sie es dennoch aus. Die Übung soll Sie überzeugen, dass Gedanken nichts Äußeres bewegen können und Gedanken nicht „magisch“ sind. Viele Menschen wissen eigentlich, dass ihre Gedanken äußere Dinge nicht beeinflussen können. Ein gewisser Zweifel bleibt aber häufig bestehen, den Experimente wie diese zerstreuen sollen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_4</id>
+
+<title>Die eigene Vogelscheuche</title>
+
+<subtitle>Nehmen Sie Ihrer Vogelscheuche den Wind aus den Kleidern</subtitle>
+
+<text>
+
+Üben Sie folgende Strategien im Umgang mit automatischen negativen Gedanken (z.B. „Ich bin wertlos/ein Loser“), die uns alle gelegentlich heimsuchen und eine Art „innerer Kritiker“ in uns widerspiegeln:
+
+1) Identifizieren und benennen Sie den Gedanken als das, was er ist – ein wiederkehrender, störender Gedanke. Sagen Sie beispielsweise „Welcome back, innerer Kritiker“ oder „Das ist nur ein automatischer Gedanke und nicht die Wahrheit“.
+
+2) Geben Sie Ihrem Gedanken eine lächerliche oder entlarvende Gestalt. Stellen Sie sich dabei z.B. Ihren inneren Kritiker als Person vor oder verwenden Sie ein Symbol/Objekt (z.B. eine Vogelscheuche). Dies kann Ihnen dabei helfen, dem Gedanken die Wichtigkeit zu nehmen. Vermeiden Sie aber dämonisierende oder gruselige Bilder.
+
+3) Was wollen Sie dem inneren Kritiker/der Vogelscheuche erwidern? Mit welcher inneren Haltung treten Sie ihm/ihr entgegen? Bleiben Sie möglichst souverän und ruhig. Diese Übung soll folgendes verdeutlichen: Sie sind nicht der (negative) Gedanke, Sie haben ihn nur und Sie entscheiden, ob Sie dem Gedanken bzw. dem „inneren Kritiker“ Raum geben wollen oder nicht.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_5</id>
+
+<title>Neuer Blickwinkel</title>
+
+<subtitle>Nehmen Sie Ihrem Denken gegenüber eine neue Position ein</subtitle>
+
+<text>
+
+Stellen Sie sich folgende Fragen: Sehen Sie sich als Wächter Ihrer Gedanken oder als Gefangener? Warum? Welchen Ihrer Gedanken können Sie sich nie merken? Unter der Dusche kommen einem oft die besten Ideen. Wo kommen Ihnen die schlechtesten Ideen? Welchen Gedanken würden Sie niemals denken?
+
+Wahrscheinlich werden Sie auf die meisten Fragen keine klaren Antworten gefunden haben. Das ist auch gar nicht das Ziel der Übung. Vielmehr soll die Übung zeigen, was wir mit unserem Denken eigentlich Tolles anstellen können. Gedankenspiele sind hilfreiche Metakognitionen (d.h. „Denken über das Denken“), die uns verblüffen und Spaß bereiten können. Gleichzeitig helfen sie, einseitige oder festgefahrene Denkmuster aufzubrechen, von denen bekannt ist, dass sie psychische Probleme begünstigen.
+
+Lassen Sie Ihren Gedanken also ihren Lauf bzw. gestehen Sie ihnen ein gewisses Eigenleben zu. Der Versuch, sie zu kontrollieren, verstärkt dagegen negative Empfindungen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_6</id>
+
+<title>Recherche</title>
+
+<subtitle>Machen Sie sich schlau</subtitle>
+
+<text>
+
+Viele Menschen neigen zu Fehleinschätzungen bei befürchteten negativen Ereignissen. Häufig liegt das daran, dass sie nur wenige, einseitige oder falsche Informationsquellen zu Rate ziehen. Gibt es Befürchtungen, die Ihnen starke Angst bereiten und die Sie für besonders wahrscheinlich halten? Informieren Sie sich umfassend und nutzen Sie dabei seriöse Quellen, z.B. ein Lexikon. Auch viele Einträge bei der online-Bibliothek Wikipedia sind vertrauenswürdig.
+
+Wichtig ist bei Ihrer Recherche, den Fokus so auszurichten, dass Sie insbesondere auch Informationen berücksichtigen, die gegen Ihre Befürchtung sprechen. Bei Ängsten sind Menschen oft zu stark auf negative Informationen und die befürchteten Konsequenzen fixiert.
+
+Suchen Sie also nicht so sehr nach Informationen darüber, mit welcher Wahrscheinlichkeit Ihnen befürchtete Ereignisse widerfahren können (z.B. ein Flugzeugabsturz oder ein Wohnungseinbruch), sondern informieren Sie sich insbesondere auch über die Wahrscheinlichkeit eines positiven Ausgangs.
+
+Sie werden kaum eine hundertprozentige Entwarnung erhalten – denn das Leben birgt nun einmal auch Gefahren –, aber übertriebene Ängste werden häufig durch ausgewogene Information korrigiert und nehmen uns dann weniger in Beschlag.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_7</id>
+
+<title>Ursachensuche</title>
+
+<subtitle>Suchen Sie die Ursachen nicht allein bei sich selbst</subtitle>
+
+<text>
+
+Manche Menschen machen sich allein für Misserfolge verantwortlich und übersehen dabei die Einflüsse unglücklicher Umstände/Pech und anderer Personen. Menschen mit übertriebenem Verantwortungsgefühl oder Symptomen einer Depression fangen bei der Ursachenforschung für negative Ereignisse meistens bei sich selbst an, grübeln über das eigene (angebliche) Fehlverhalten und sind außerstande, andere ursächliche Faktoren ausfindig zu machen.
+
+Sie sollten stets drei Ursachenquellen für das Zustandekommen von Situationen unterscheiden und berücksichtigen: die Umstände, andere Personen und sich selbst. Denken Sie an eine negative oder peinliche Situation aus der letzten Woche (z.B. ein Freund hat Sie versetzt). Überlegen Sie, welche Faktoren zu dem Ereignis beigetragen haben und notieren Sie sich diese. Tragen Sie außerdem den Anteil in Prozent ein, den diese Faktoren zu dem Ereignis beigesteuert haben. Erst am Ende tragen Sie Ihren eigenen Anteil ein. Beispiel: Streit mit dem besten Freund. Anteil des Freundes 50%, äußere Umstände 40%, eigener Anteil 10%.
+
+Sie werden sehen, dass der eigene Einfluss deutlich relativiert wird. Bei genauer Betrachtung haben (negative) Ereignisse selten eine einzige Ursache. Die jeweiligen Umstände und andere Personen spielen meist eine größere Rolle als wir spontan denken.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_8</id>
+
+<title>Stopp-Signale</title>
+
+<subtitle>Setzen Sie Ihren Gedanken Stopp-Signale</subtitle>
+
+<text>
+
+Viele Menschen leiden unter Grübeleien, also negativen Gedankenspiralen, die zu keinem Fortschritt führen. Eine Methode, das Grübeln zu unterbrechen, besteht darin, sich laut oder leise „Stopp“ zu sagen, sobald man merkt, dass man grübelt. Wenn Grübelgedanken auftreten, sagen Sie also: „Stopp“! Unterstützen Sie dies mit inneren Bildern (z.B. von einem Stoppschild) oder ballen Sie gleichzeitig Ihre Hand zu einer Faust.
+
+Auch Ablenkung kann die Grübelschleifen unterbrechen, wenn Sie sich bewusst unsinnige Fragen stellen (z.B. Wie lange dauerte der Dreißigjährige Krieg?; Welcher berühmte Maler lebte jahrelang im Rembrandt-Haus?). Oder lösen Sie Denksportaufgaben/Rätsel. Es gibt dazu unzählige Seiten im Internet. Eine weitere Möglichkeit ist es, den „Denk-Takt“ des Grübelns zu ändern, indem Sie Sätze, die in Ihrem Kopf rumspuken (z.B. „Wieso bin ich nicht klüger?“), vor Ihrem geistigen Ohr dehnen
+
+oder sich vorstellen, wie sie mit einem lauten Knall zerplatzen. Das unterbricht das Denken und verhindert, dass das Grübeln wieder einsetzt. Probieren Sie es einmal aus!
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_9</id>
+
+<title>Stärken</title>
+
+<subtitle>Vergegenwärtigen Sie sich Ihre Stärken</subtitle>
+
+<text>
+
+Keiner ist vollkommen! Eine häufige Denkfalle bei depressiven Symptomen besteht darin, die eigenen Stärken als selbstverständlich anzusehen und nur jene Fähigkeiten, die uns (vermeintlich) fehlen, als wertvoll und begehrenswert zu betrachten. Anstatt sich auf die (angeblichen) Schwächen zu konzentrieren, sollten Sie sich lieber Ihren Stärken und Schokoladenseiten zuwenden.
+
+Denken Sie dafür zuerst daran, was Ihnen meistens gut gelingt. Wofür haben Sie schon häufiger Komplimente bekommen (z.B. begabter Handwerker, ein guter Zuhörer, zuverlässig)? Stellen Sie sich dann eine konkrete Situation vor, in der Sie gelobt wurden: Wann und wo war das? Was habe ich konkret gemacht, wer hat mir das rückgemeldet (z.B. „Ich habe letzte Woche einer Freundin beim Streichen der Wohnung geholfen, wofür sie mir sehr dankbar war. Ohne mich hätte sie das nicht geschafft“)? Schreiben Sie auf, wenn etwas gut gelaufen ist oder Sie ein Kompliment bekommen haben.
+
+Lesen Sie Ihre Notizen regelmäßig und erweitern Sie diese laufend. Greifen Sie im Notfall, z.B. wenn Sie sich wertlos fühlen, darauf zurück.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_10</id>
+
+<title>Alle Farben</title>
+
+<subtitle>Bringen Sie Farbe in Ihre Welt</subtitle>
+
+<text>
+
+Manche Menschen neigen zu „Schwarz-Weiß-Denken“, gerade in negativen Situationen, was die Bewertung komplexer Situationen zwar vereinfacht, jedoch der Realität selten gerecht wird. Fast alles ist relativ (tritt nicht „immer“ oder „nie“, sondern „manchmal“ auf; betrifft nicht „alle“ oder „keine“, sondern „manche“ oder „viele“). Besonders wenn es um die eigene Person geht, kann eine einseitige Sichtweise schädlich sein, gerade bei negativen Gedanken, denn kein Mensch ist perfekt und makellos, aber auch nicht von Grund auf schlecht. Kennen Sie solche „Schwarz-Weiß-Gedanken“
+
+von sich selbst? Beschreiben Sie sich gelegentlich mit Extremen (z.B. der Dümmste oder hässlich zu sein)?
+
+Nehmen Sie jeweils einen konkreten Gedanken und hinterfragen Sie dieses Urteil über sich selbst. Überlegen Sie anschließend eine Alternative, die mehr „Farben“ (Abstufungen) hat als der ursprüngliche Gedanke und notieren Sie sich diese. Wenn Sie z.B. den Gedanken „Ich bin der Dümmste“ hatten, könnte eine Relativierung lauten: „Ich habe vielleicht nicht das Pulver erfunden und kenne nicht jedes Fremdwort, aber ich weiß, wie man an Autos schraubt, verstehe viel von Handball und bin ein guter Zuhörer“. Versuchen Sie in Zukunft, vermehrt darauf zu achten, nicht „schwarz-weiß“ zu denken und alternative Gedanken zu finden, wenn Sie sich dabei erwischen, in negativen Extremen über sich selbst zu urteilen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_11</id>
+
+<title>Geistiger Filter</title>
+
+<subtitle>Hinterfragen Sie Ihre geistigen Filter</subtitle>
+
+<text>
+
+In schlechter Stimmung kann es passieren, dass man ausschließlich negative Dinge wahrnimmt und die Umwelt wie durch einen getrübten Filter betrachtet. Kennen Sie das? Ein Beispiel dafür könnte ein Essen mit der Verwandtschaft sein, bei dem eine Person mit dem Handy spielt und andere zuhören, während Sie erzählen, was Sie am letzten Wochenende gemacht haben.
+
+Vielleicht stellen sich daraufhin Gedanken ein wie „Keiner hat zugehört – ich bin denen egal“. Die Konsequenzen eines derartigen Filters können ein sinkender Selbstwert und das Gefühl von eigener Inkompetenz und mangelnder Wertschätzung durch andere sein. Eine alternative Reaktion auf die Situation hingegen kann entstehen, wenn Sie den Blick weiten und nicht nur an die eine unaufmerksame Person denken.
+
+Dieses Vorgehen ermöglicht hilfreichere Gedanken, z.B. „Einige meiner Verwandten haben interessierte Fragen gestellt, sie müssen also zugehört haben. Außerdem spielt mein Cousin ständig mit seinem Handy“. Denken Sie nun an eine eigene Situation, die Sie einseitig negativ bewertet haben und bei der Sie sich hinterher schlecht gefühlt haben. Überlegen Sie sich – ähnlich wie in dem Beispiel –, wie Sie die Situation anders bewerten könnten, damit Sie sich besser fühlen. Ziel ist nicht Schönfärberei, sondern zu einer fairen und realistischeren Sichtweise zu gelangen. Ändern Sie hierfür den Blickwinkel.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_12</id>
+
+<title>Übertriebene Verallgemeinerung</title>
+
+<subtitle>Hinterfragen Sie verallgemeinernde Bewertungen einzelner Situationen</subtitle>
+
+<text>
+
+Menschen mit emotionalen Problemen neigen dazu, ein einzelnes negatives Ereignis als Teil einer andauernden Misserfolgsserie anzusehen oder die Bedeutung des Ereignisses überzubewerten. Ein Beispiel hierfür könnte sein, bei falscher Verwendung eines Fremdwortes zu denken: „Nie weiß ich etwas. Ich bin dumm“. Bewertungen, in denen das Wort „immer“ oder „niemals“ vorkommt, sind typisch für diese übertriebenen Verallgemeinerungen. Viel hilfreicher wäre hingegen der folgende Gedanke: „Ein Wort falsch zu benutzen, hat nichts mit meiner Intelligenz zu tun, das kann jedem passieren“.
+
+Kennen Sie übertriebene Verallgemeinerungen auch von sich? Finden Sie ein Beispiel aus den vergangenen Tagen, bei dem Sie in einer Situation zu Ihren Ungunsten verallgemeinert haben. Und überlegen Sie nun, mit etwas Abstand, eine hilfreichere Bewertung. Machen Sie dabei konkrete, situationsgebundene Aussagen, die sich auf das Hier und Jetzt beziehen. Von einer Situation sollten Sie nicht auf „immer“ schließen.
+
+Schreiben Sie den hilfreichen Gedanken am besten auf. So können Sie sich in einer ähnlichen Situation besser daran erinnern und versuchen, hilfreichere Gedanken heranzuziehen. Der erste Schritt zur Veränderung ist, sich übertriebene Verallgemeinerungen (und andere negative Denkstile) erst einmal bewusst zu machen. Veränderung braucht Zeit und Übung. Ärgern Sie sich nicht, wenn Ihnen das nicht gleich gelingt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_13</id>
+
+<title>Selbstwertquellen</title>
+
+<subtitle>Wo liegen Ihre Selbstwertquellen?</subtitle>
+
+<text>
+
+Unser Selbstwert ist der Wert, den wir uns selbst zuschreiben, und somit eine subjektive Größe, die in erster Linie von uns selbst abhängt. Die Art, wie andere uns wahrnehmen (z.B. selbstsicher) stimmt nicht unbedingt mit unserer eigenen Wahrnehmung überein (z.B. klein und wertlos).
+
+Ein gesunder Selbstwert ist unter anderem geprägt vom Vertrauen in eigene Fähigkeiten, Akzeptieren von Fehlern oder Misserfolg sowie von der Bereitschaft, aus Fehlern zu lernen und sich selbst auch einmal für etwas zu loben. Die verschiedenen Bereiche unseres Lebens stellen die Quellen für unseren Selbstwert dar. Dabei ist es ungünstig, wenn der Selbstwert nur aus einer einzigen Quelle geschöpft wird (z.B. beruflicher Erfolg, Aussehen).
+
+Jeder Mensch hat Stärken und Schwächen und somit Lebensbereiche, in denen er/sie mehr oder weniger selbstsicher ist. Entscheidend für unseren Selbstwert ist, ob wir nur unsere Mängel betrachten oder auch unsere Stärken. Notieren Sie deshalb Ihre Stärken. Um diese zu identifizieren, denken Sie an verschiedene Lebensbereiche. Zu diesen zählen z.B. Beruf, Sport, Hobbys oder Beziehungen. Denken Sie daran, dass kein Mensch perfekt ist und niemand in allen Lebensbereichen gleich gut abschneiden kann.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_14</id>
+
+<title>Selbstkritische Gedanken</title>
+
+<subtitle>Hinterfragen Sie selbstkritische Gedanken</subtitle>
+
+<text>
+
+Sich selbst gelegentlich kritisch zu hinterfragen ist durchaus sinnvoll. Zu viele selbstkritische Grübeleien sind jedoch nicht hilfreich und senken das Selbstvertrauen.
+
+Wenn Sie also zu ständiger Selbstkritik neigen, sind folgende Schritte nützlich, um diese abzumildern: Schärfen Sie Ihr Bewusstsein für das Auftreten selbstkritischer Gedanken, indem Sie notieren, in welchen Situationen diese auftreten und welche Auswirkungen sie auf Ihre Gefühle und Ihr Verhalten ausüben. Dies kann es erleichtern, selbstkritische Gedanken zu hinterfragen und positive Alternativen zu finden. Selbstkritische Gedanken sind keine Wahrheiten, sondern eine subjektive Sichtweise. Welche alternativen Gedanken finden Sie zu Ihrer Selbstkritik? Seien Sie liebevoll und nachsichtig mit sich selbst, wie zu einem Freund, denn kein Mensch ist perfekt und das ist auch gut so.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_15</id>
+
+<title>Problematische Annahmen</title>
+
+<subtitle>Überprüfen Sie Ihre Annahmen</subtitle>
+
+<text>
+
+Im Alltag haben wir oft hinderliche Annahmen über uns und unsere Umwelt, wie z.B. „Nur wenn ich es anderen recht mache, werden sie mich gernhaben“. Unseren Annahmen entsprechend richten wir unser Handeln aus und je nachdem, wie sich dieses Handeln auf die Umwelt auswirkt, bestätigen oder verwerfen wir sie.
+
+Sind Annahmen über uns selbst sehr negativ (z.B. „Wenn ich meine wahren Gefühle zeige, werde ich abgelehnt“), können sehr leicht Erwartungsängste entstehen. Handeln wir dann entsprechend solcher Erwartungsängste (z.B. kühles Auftreten gegenüber Mitmenschen), können Folgeprobleme entstehen, z.B. in Form negativer Reaktionen unserer Umwelt. Haben Sie problematische oder hinderliche Annahmen über sich selbst? Kennen Sie derartige Erwartungsängste, z.B. Angst vor negativer Bewertung oder Ablehnung?
+
+Es ist hilfreich, eigene Annahmen stets zu hinterfragen. Ihre Annahmen sind keine Tatsachen – sie bestätigen sich vielleicht in Teilen, treffen aber auch häufig nicht ein.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_16</id>
+
+<title>Durch veränderte Bewertungen die Stimmung verbessern</title>
+
+<subtitle>Ist mein Gedanke hilfreich?</subtitle>
+
+<text>
+
+Wenn wir unangenehme Gefühle erleben, hängt das oft damit zusammen, dass wir Ereignisse negativ bewerten, die man durchaus auch anders einschätzen könnte. Solche Bewertungen können wir verändern und uns dadurch auch besser fühlen.
+
+Machen Sie dazu folgende Übung: Erinnern Sie sich an ein negatives Ereignis (z.B. Niedergeschlagenheit nach einem beruflichen Misserfolg). Überlegen Sie, welcher konkrete Gedanke dieses Gefühl ausgelöst oder bestärkt hat (z.B. „Ich mache aber auch immer alles falsch und bekomme gar nichts hin“; „Alle meine Kollegen denken, dass ich nichts draufhabe“). Stellen Sie sich nun zu diesem Gedanken folgende drei Fragen und beantworten Sie diese:
+
+1. Entspricht der Gedanke der Wirklichkeit? (Beispiel: Mache ich wirklich immer alles falsch?)
+
+2. Hilft mir dieser Gedanke, mich besser zu fühlen?
+
+3. Hilft mir dieser Gedanke, die betreffende Situation bzw. zukünftige ähnliche Situationen besser zu bewältigen?
+
+Wenn Sie diese Fragen mit „Nein“ beantworten, dann überlegen Sie, welcher Gedanke hilfreicher sein könnte und dazu beiträgt, dass Sie sich besser fühlen (z.B. „Jeder macht mal Fehler, nächstes Mal mache ich es besser“; „Was kann ich Neues aus der Erfahrung lernen?“) und es nächstes Mal auch besser machen. Stellen Sie sich diese Fragen immer dann, wenn Sie merken, dass Ihre Gedanken zu unangenehmen Gefühlen führen. Ziel der Übung ist keine Selbsttäuschung oder Schönfärberei, sondern ein fürsorglicherer Umgang mit sich selbst.
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_17</id>
+
+<title>Den inneren Kritiker mäßigen</title>
+
+<subtitle>Freundliche Selbstgespräche</subtitle>
+
+<text>
+
+Oft sind wir nett zu anderen, aber uns selbst gegenüber sehr streng und unerbittlich, wenn wir z.B. etwas vergessen oder einen Fehler machen. Anderen würden wir es verzeihen, uns selbst hingegen nicht. Warum ist das so? Dieser „innere Kritiker“ spiegelt u.a. gesellschaftliche Regeln wider, die wir in unserer Kindheit gelernt haben, oder auch unsere Ängste sowie Kritik, die wir von anderen gehört haben. Indem Sie Ihren inneren Kritiker mäßigen und freundlicher mit sich sprechen, stärken Sie Ihr Selbstvertrauen und verbessern Ihre Stimmung.
+
+Machen Sie dazu die folgende Übung: Denken Sie an eine Situation, in der sich Ihr innerer Kritiker vehement zu Wort gemeldet hat (z.B. „Du Niete. Dir gelingt nichts.“). Neutralisieren Sie das Gesagte nun, indem Sie daran denken, wie liebevolle Eltern in dieser Situation mit ihrem Kind reden würden. Richten Sie diese freundlichen Worte an sich selbst. Wiederholen Sie mehrfach Sätze wie „Tja, dumm gelaufen. Das kann passieren. Kopf hoch. Nächstes Mal machst Du es besser. Es hilft nichts, sich fertig zu machen“, sodass sich die bestärkende Nachricht in Ihr Unterbewusstsein einprägt. Machen Sie diese Übung, wenn Sie merken, dass Ihr innerer Kritiker überhandnimmt. So üben Sie, liebevoller und freundlicher mit sich selbst zu reden und sich dadurch besser zu fühlen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_18</id>
+
+<title>Sich selbst bestärken</title>
+
+<subtitle>Finden Sie Ihr persönliches Mantra</subtitle>
+
+<text>
+
+Positive Merksprüche, sogenannte Mantras, sind eine effektive Strategie, um Ihr Selbstwertgefühl zu verbessern. Suchen Sie sich einen bestärkenden „Mut-Mach-Satz“, Ihr persönliches Mantra, das Sie regelmäßig wiederholen, z.B. abends vor dem Zubettgehen oder vor einer schwierigen Situation. Es kann günstig sein, den Satz an Rituale zu knüpfen, die Sie sowieso regelmäßig ausführen – so fällt es Ihnen leichter, sie dann in dieser Situation abzurufen (z.B. beim Zähneputzen). Zudem ist es hilfreich, sich diesen Satz laut und freundlich ins Gesicht (in den Spiegel) zu sagen. Zu Beginn fühlt sich das vielleicht noch ein wenig komisch an. Sie können auch mehr als einen Satz wählen. Suchen Sie sich aber nicht zu viele Sätze aus, damit diese leichter in Fleisch und Blut übergehen. Hier einige Beispielsätze:
+
+- „Ich tue mein Bestes, mehr geht nicht.“
+
+- „Ich bin ein guter Mensch.“
+
+- „Es ist noch immer gut gegangen.“
+
+- „Ich schaffe das.“
+
+- „Du findest einen Weg.“
+
+- „Jeder kleine Schritt zählt.“
+
+- „Eins nach dem anderen.“
+
+- „Ich bleibe gelassen bei Dingen, die ich nicht ändern kann.“
+
+Hilft einer dieser Sätze, Ihnen Zuversicht und gute Laune zu geben? Überlegen Sie sich weitere Sätze. Sagen Sie sich Ihr Mantra immer wieder vor. Sie können es auch auf eine Karte schreiben, die Sie bei sich tragen, oder auf ein Blatt Papier, das Sie z.B. an Ihren Kühlschrank hängen. So werden Sie immer wieder daran erinnert, dass Sie sich selbst ermutigen und bestärken können.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_19</id>
+
+<title>Negatives akzeptieren und loslassen</title>
+
+<subtitle>Das Tauziehen mit dem Monster</subtitle>
+
+<text>
+
+Nutzen Sie in der nachfolgenden Übung Ihre Vorstellungskraft, um neue Wege im Umgang mit negativen Gedanken und Gefühlen zu beschreiten:
+
+Stellen Sie sich vor, dass all die negativen Gedanken und Gefühle, die Sie umtreiben und runterziehen, von einem riesigen Monster verkörpert werden. Zwischen Ihnen und diesem Monster (also Ihren negativen Gedanken und Gefühlen) findet nun ein Tauziehen statt. Am einen Seilende stehen Sie und ziehen so fest Sie können, und am anderen Seilende zieht das Monster. Zwischen Ihnen und dem Monster klafft ein Abgrund, in den Sie das Monster mit all dem Negativen stürzen wollen. Aber trotz Ihrer Kraft und Mühe, – das Monster ist sehr stark. Ihre Hände umklammern das Seil, Ihre Fersen sind in den Boden gestemmt und Sie können an nichts anderes denken, als das Monster endlich zu vernichten. Sie spüren zunehmend, wie Sie müde werden und Ihre Kraft schwindet, aber der Kampf nimmt kein Ende. Es scheint, als steckten Sie in einem anstrengenden und nicht enden wollenden Wettstreit um Ihr Leben...
+
+Fragen Sie sich jetzt: Gibt es einen anderen Weg? Was würde passieren, wenn Sie den Kampf beenden und einfach loslassen? Dann wäre das Monster noch da. Aber vielleicht können Sie lernen, das Monster zu akzeptieren, anstatt es zu bekämpfen? Dann hätten Sie mehr Energie, sich um andere positive oder erfüllende Lebensbereiche zu kümmern. Sie würden merken, dass negative Gedanken und Gefühle vorübergehende Phänomene sind, die kommen aber auch wieder gehen, wenn wir sie nicht ständig (in Gedanken und Taten) festhalten.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_19a</id>
+
+<title>Früher war nicht alles besser</title>
+
+<subtitle>Machen Sie sich bewusst, was Sie schon alles geschafft haben</subtitle>
+
+<text>
+
+In dieser Übung geht es darum, sich zu vergegenwärtigen, was Sie schon alles geschafft haben in Ihrem Leben. Menschen, die Probleme mit ihrem Selbstwert haben, neigen dazu den Blick darauf zu richten, was alles nicht (mehr) geht, anstatt darauf zu fokussieren, was gut gelaufen ist oder sich verbessert hat über die Zeit. Eine weitere sehr ungünstige Tendenz ist es, sich ständig mit anderen zu vergleichen, die man für klüger, attraktiver, schneller oder besser hält. Wenn Sie schon Vergleiche anstellen wollen, dann ist es viel sinnvoller und hilfreicher sich mit sich selbst zu vergleichen. Für einen gesunden Selbstwert ist es entscheidend, dass Sie sehen, was sich im Vergleich zu einem früheren Zeitpunkt positiv verändert hat. Auch hier werden Sie ganz sicher Einiges finden, was Sie auflisten können. Vielleicht können Sie heute mit schwierigen Situationen besser umgehen? Oder Sie haben Ihre Ausdauer beim Sport verbessert? Oder Sie haben gelernt, Ihre Impulsivität besser zu kontrollieren? Vielleicht haben Sie es geschafft mit dem Rauchen aufzuhören oder Sie ernähren sich gesünder? Schreiben Sie alles, was Ihnen einfällt, auf einen Zettel oder in ein kleines Notizbuch. Lesen Sie sich das Geschriebene von Zeit zu Zeit durch und ergänzen Sie die Liste, wenn etwas Neues hinzukommt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_19b</id>
+
+<title>Von der Gedächtnisforschung lernen</title>
+
+<subtitle>Morgens und abends lernen wir am besten</subtitle>
+
+<text>
+
+Wenn wir uns eine längere Wortliste einprägen, lernen wir Wörter, die zuerst oder zuletzt präsentiert wurden, üblicherweise am besten. Wieso ist das so? Material, welches in der Mitte präsentiert wird, droht im Gedächtnis verschüttet zu werden durch vorher und nachher präsentierte Wörter. Dadurch entsteht Konkurrenz im Gedächtnis. Material, welches zu Beginn aufgenommen wurde, hat dagegen einen Verarbeitungsvorteil, da es sich nicht gegen anderes voriges Lernmaterial durchsetzen musste. Informationen, welche wir als letztes lernen, können sich ebenfalls besser festigen, da nichts mehr folgt. Diesen Effekt kann man sich zunutze machen, indem man sich abends Dinge vergegenwärtigt (am besten aufschreiben), die am Tag gut gelaufen sind. Gehen Sie diese im Geiste noch mal mit möglichst vielen Sinnen durch (ein Kompliment; eine lustige Mittagspause mit Kollegen; eine Aufgabe geschafft zu haben), damit sich diese Eindrücke über die Nacht einprägen. Ebenso morgens: stellen Sie sich hier vor, was Sie – selbst vor einem anstrengenden Arbeitstag – vielleicht auch an angenehmen Dingen erwartet (z.B. abends Sport machen, nette Kollegen). Damit können Sie dafür sorgen, dass der Tag schon zu Beginn eine positive Richtung nimmt.
+
+</text>
+
+</exercise>
+
+</exercises>
+
+</category>
+
+<category>
+
+<title>Aktivität &amp; Energie</title>
+
+<icon>football-ball</icon>
+
+<imgSrc>category/positiveAct</imgSrc>
+
+<color>#5b9d27</color>
+
+<exercises>
+
+<exercise>
+
+<id>de_20</id>
+
+<title>Sensorisches Zirkeltraining</title>
+
+<subtitle>Üben Sie ein sensorisches Zirkeltraining</subtitle>
+
+<text>
+
+Niedergeschlagenheit und mangelndes Selbstwertgefühl entstehen, wenn negative Erfahrungen und Erinnerungen im Bewusstsein überwiegen und durch ständiges Grübeln immer präsenter werden. Sie können so das Grundgefühl bestimmen und positive Erlebnisse überlagern.
+
+Um den Einfluss positiver Erinnerungen zu stärken, sollten Sie versuchen, sich diese möglichst lebendig vorzustellen. Üben Sie folgendes „sensorisches Zirkeltraining“: Als Trainingsstationen des Zirkels dienen die fünf Sinne (Sehen, Riechen, Hören, Schmecken und Tasten) sowie Herz und Verstand. An jeder dieser Stationen sollen Sie sich ein positives Ereignis ganz intensiv und lebendig mit diesem Sinn vorstellen.
+
+Stellen Sie sich vor, wie Sie z.B. einmal für Ihre Volleyballmannschaft einen Punkt erzielt haben. Hören Sie vor Ihrem geistigen Ohr, wie Ihnen jemand ein Kompliment gemacht hat. Stellen Sie sich vor, wie es sich anfühlte, einen Freund umarmt zu haben. Bei der Station Herz und Verstand denken Sie nach, welche Erkenntnisse oder Worte Sie berührt haben, z.B. ein Lied oder ein kluges Zitat.
+
+Wenn es Ihnen nicht gelingt, sich das alles lebendig vorzustellen: nicht schlimm! Versuchen Sie trotzdem, einige Stationen des Trainings zu durchlaufen. Erfreuen Sie sich mit allen Sinnen auch an den kleinen Dingen des Lebens (z.B. einer leckeren Tasse Kaffee oder einem herzlichen Gespräch mit einem Verwandten).
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_21</id>
+
+<title>Rausgehen</title>
+
+<subtitle>Gehen Sie raus und begeben Sie sich unter Menschen</subtitle>
+
+<text>
+
+In Phasen gedrückter Stimmung kann der Kontakt mit anderen Menschen anstrengend sein. Betroffene fühlen sich von anderen Menschen dann oft unverstanden, das Interesse an sozialen Kontakten und der Antrieb, etwas zu unternehmen, sind geringer als sonst. Auch wenn es sich dann richtig anfühlt, sich zu verkriechen und alleine zu sein, kann das in einen gefährlichen Teufelskreis münden. Es tut den meisten Betroffenen gut, etwas zu unternehmen und so den Teufelskreis zu unterbrechen.
+
+Hinterher fühlen sich die meisten besser, was helfen kann, sich das nächste Mal trotz geminderten Antriebs erneut aufzuraffen. Fangen Sie mit kleinen Schritten an. Machen Sie z.B. eine Verabredung mit einem Bekannten aus, um so unter Menschen zu sein, oder gehen Sie zusammen mit anderen zum Sport oder ins Kino. Wenn es Rückschläge gibt, werfen Sie die Flinte nicht gleich ins Korn.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_22</id>
+
+<title>Körperhaltung</title>
+
+<subtitle>Lassen Sie Ihren Körper Ihre Stimmung beeinflussen</subtitle>
+
+<text>
+
+Ihre Körperhaltung und Ihr Gesichtsausdruck stehen in einem Wechselspiel mit Ihrer Stimmung. So verstärken eine gebeugte Haltung, ein trauriger Gesichtsausdruck und eine leise Stimme Niedergeschlagenheit, Angst und ein geringes Selbstwertgefühl. Ändern Sie Ihre Körperhaltung und Ihren Ausdruck, sodass Sie Selbstsicherheit und Freude fördern.
+
+Strecken Sie sich, machen Sie Ihren Rücken gerade und halten Sie Ihren Kopf aufrecht. Spüren Sie, wie Sie auch innerlich wachsen, während Sie Ihre Haltung verändern? Sie können auch Ihre Hände für einen Moment hinter dem Kopf verschränken. So machen Sie sich groß und sorgen automatisch dafür, dass Ihre Schultern nicht nach vorne fallen. Setzen Sie noch ein i-Tüpfelchen drauf und lächeln Sie.
+
+Wie fühlt es sich an zu lächeln? Nehmen Sie für einen Moment wahr, wie sich Ihr Körper und Ihr Gesicht anfühlen, und versuchen Sie auch nach Beendigung der Übung, Ihren Körper während des ganzen Tages aufrecht zu halten und sich nicht hängen zu lassen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_23</id>
+
+<title>Spaziergang</title>
+
+<subtitle>Machen Sie einen strammen Spaziergang</subtitle>
+
+<text>
+
+Ein strammer Spaziergang bringt Sie auf Trab und oft auch auf neue Gedanken. Nehmen Sie sich jeden Tag Zeit, um wenigstens einmal um den Block zu gehen.
+
+Alternativ können Sie natürlich auch zum Sport gehen. Körperliche Betätigung löst zwar keine Konflikte, nimmt aber Alltagsstress und so manchem Groll die Spitze. Gleichzeitig werden durch Ausdauersport im Körper chemische Prozesse angestoßen, die wie „körpereigene Antidepressiva“ wirken. Leichter Sport wirkt nachweislich ausgleichend und stimmungsaufhellend. Nehmen Sie sich vor, zumindest einmal am Tag eine halbe Stunde in Bewegung zu sein, am besten an der frischen Luft. Ihr Tag sollte ein festes Bewegungsritual beinhalten, z.B. der Weg zur Arbeit oder Besorgungen zu Fuß oder mit dem Rad.
+
+Körperliche Betätigung kann auch entspannend gestaltet werden, denken Sie an Pilates oder Yoga. Hierbei steht die ganzheitliche Körperwahrnehmung im Vordergrund. Informieren Sie sich z.B. über Kurse in Ihrer Nähe. Manchmal werden diese von den Krankenkassen bezahlt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_24</id>
+
+<title>Einflussfaktoren auf die Gefühle</title>
+
+<subtitle>Reduzieren Sie negative äußere Einflussfaktoren</subtitle>
+
+<text>
+
+Gefühle sind wie eine sich auftürmende Welle, die übermächtig erscheint, aber schnell ihre Größe und Wucht verliert. Überlegen Sie sich, welche Faktoren Ihre Gefühlswelt mitbestimmen. Folgende Einflüsse werden oft unterschätzt:
+
+Schlafmangel, Zigaretten, Kaffee: Die Quelle der inneren Anspannung, die z.B. durch zu wenig Schlaf oder übermäßigen Kaffeekonsum entstanden ist, wird übersehen und fälschlich einem bestimmten Ereignis oder jemand anderem (z.B. einem Arbeitskollegen) zugeschrieben. Ein vorhandenes negatives Gefühl (z.B. Ärger, Angst) wird dadurch angeheizt.
+
+Musik, Lärm: Musik kann unsere Stimmung sowohl positiv als auch negativ beeinflussen. Sie kann uns aufwühlen und aufputschen (z.B. Gefühl von Zusammengehörigkeit bei Musikfestivals) oder uns auch zu Fehleinschätzungen bzw. Fehlverhalten verleiten (z.B. Aggression bei lauter harter Musik).
+
+Stress, z.B. durch Zeitdruck: Stress macht uns häufig sehr dünnhäutig und beeinträchtigt unser Urteilsvermögen. Wir reagieren dann leicht über.
+
+Gibt es Dinge in Ihrem Leben, die Ihre Gefühle und Wahrnehmung negativ beeinflussen? Was könnten Sie hier verändern, z.B. mehr schlafen, den Genuss koffeinhaltiger Getränke reduzieren, durch eine gute Tagesstrukturierung Zeitstress reduzieren?
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_25</id>
+
+<title>Freudentanz</title>
+
+<subtitle>Tanzen Sie durch den Raum</subtitle>
+
+<text>
+
+Bewegung und Musik machen die meisten Menschen glücklich, zumindest, wenn es „ihre Musik“ ist. Hören Sie also eines Ihrer Lieblingslieder an und bewegen Sie sich dazu im Takt. Das muss nicht besonders gekonnt aussehen. Bewegen Sie sich so, dass Sie sich wohlfühlen – wenn Sie mögen, können Sie dabei auch die Augen schließen.
+
+Sport kann chemische Prozesse im Körper anstoßen, die die Stimmung verbessern. Auch Musik kann unsere Stimmung heben, wenn positive Erinnerungen an bestimmte Situationen und damit verknüpfte Empfindungen hervorgerufen werden.
+
+Wählen Sie daher eine Melodie, die Sie an einen schönen Moment erinnert. Ein Vorschlag wäre das Lied „Happy“ von Pharrell Williams. Auch Hardrock, Schlager oder Country und Western sind okay. Es eignet sich jede Art von Musik, die Sie in eine gute Stimmung versetzt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_26</id>
+
+<title>Ein heiterer Blick in den Himmel</title>
+
+<subtitle>Üben Sie ein Lächeln</subtitle>
+
+<text>
+
+Unsere Gefühlswelt hat nachgewiesenermaßen einen Einfluss auf unsere Mimik und Gestik. So versetzt uns eine gedrückte Stimmung eher in eine gebeugte Haltung und die Mundwinkel sinken herab. Umgekehrt können aber auch Haltung und Gestik unsere Stimmung beeinflussen. Richten wir uns auf und lächeln, bessert sich die Laune meist unmittelbar. Ein Blick in den Himmel kann diesen Effekt noch verstärken.
+
+Probieren Sie die folgende Übung, die bei regelmäßiger Durchführung dazu beitragen kann, Ihre Stimmung zu verbessern: Treten Sie an ein Fenster oder gehen Sie nach draußen, richten Sie Ihren Blick für einige Zeit in den Himmel und lächeln Sie. Verstärken Sie den Effekt der Übung, indem Sie dabei an ein lustiges oder schönes Erlebnis denken.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_27</id>
+
+<title>Glücksbilder</title>
+
+<subtitle>Üben Sie, Schönes wahrzunehmen</subtitle>
+
+<text>
+
+Sich auf die positiven und schönen Dinge des Lebens zu konzentrieren, führt zu mehr innerer Zufriedenheit und Wohlbefinden.
+
+Nehmen Sie sich Zeit für die folgende Übung: Packen Sie Ihr Handy mit Kamera oder Ihren Fotoapparat ein und unternehmen Sie einen Spaziergang. Halten Sie nun bewusst nach schönen Dingen und Motiven Ausschau, die Sie vielleicht vorher noch nicht bemerkt haben und machen Sie Fotos davon. Drucken Sie Ihr Lieblingsbild aus und hängen es an einem Ort in der Wohnung auf, an dem Sie es oft sehen können. So werden Sie an die Freude des Spaziergangs erinnert. Am besten führen Sie diese Übung regelmäßig durch und können so eine kleine Fotogalerie erstellen. Sie können die Bilder auch für Ihren Schreibtischhintergrund am PC verwenden. Wenn Ihnen dies zu mühselig ist, können Sie selbstverständlich auch ein vorhandenes Bild, z.B. aus dem Internet oder Ihrem Fotoalbum, nehmen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_28</id>
+
+<title>Sich der eigenen Werte, Fähigkeiten und Fertigkeiten bewusst werden</title>
+
+<subtitle>Positives verankern und den Selbstwert stärken</subtitle>
+
+<text>
+
+Wir können unsere Vorstellungskraft nutzen, um Selbstvertrauen und Wohlbefinden aufzubauen. Die Grundidee der nachfolgenden Übung besteht darin, eigene Werte, Fähigkeiten und Fertigkeiten zur
+
+Lebensbewältigung gedanklich an den Fingern einer Hand zu „verankern“. Das mag zunächst merkwürdig klingen, aber versuchen Sie es einfach mal.
+
+Nehmen Sie zunächst ein Blatt Papier und einen Stift und malen Sie den Umriss Ihrer Hand auf. Jeder Finger steht dabei für einen Bereich, der Ihr Selbstwertgefühl speist:
+
+- Der Daumen steht für all Ihre Fähigkeiten und Kompetenzen, wie z.B. Pünktlichkeit, Fremdsprachenkenntnisse oder technisches Know-how.
+
+- Der Zeigefinger gibt die Richtung an, soll Sie also an Ihre Werte und Ziele erinnern, z.B. eine Ausbildung beenden oder respektvoll mit Ihren Mitmenschen oder der Natur umgehen.
+
+- Der Mittelfinger steht für Ihre Fähigkeit, Ihre „innere Mitte“ zu finden, also Ihre Fähigkeit, sich zu entspannen und auszuruhen, z.B. durch Sport wie Yoga oder auch Meditation.
+
+- Der Ringfinger stellt Ihr soziales Netzwerk dar, d.h. Beziehungen, die Ihnen Halt und Kraft geben.
+
+- Der kleine Finger symbolisiert alles, was Ihnen Spaß und Freude macht, also Ihre Hobbys und Freizeitaktivitäten.
+
+Nehmen Sie sich nun ein wenig Zeit und werden Sie sich Ihrer Werte, Fähigkeiten und Fertigkeiten zur Lebensbewältigung anhand Ihrer Finger bewusst. Fangen Sie mit dem Daumen an, erspüren Sie diesen bewusst und denken Sie dann an Ihre Fähigkeiten und Kompetenzen. Gehen Sie so alle Finger nacheinander durch. Notieren Sie am Ende alles, was Ihnen eingefallen ist. Eventuell wird Ihnen nicht bei allen Fingern auf Anhieb etwas einfallen. Das ist nicht schlimm.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_28a</id>
+
+<title>Umfrage in eigener Sache</title>
+
+<subtitle>Fragen Sie andere, was diese an Ihnen schätzen</subtitle>
+
+<text>
+
+Um sich stärker bewusst zu machen, dass Sie wertvolle Eigenschaften haben, können Sie folgendes tun: Fragen Sie Freunde, Kollegen, Nachbarn oder Verwandte danach, was sie an Ihnen mögen oder schätzen. Schreiben Sie das, was die Befragten geantwortet haben auf, damit Sie später jederzeit darauf zurückgreifen können. Dabei ist es egal, ob es sich um äußere Merkmale oder um Eigenschaften und Verhaltensweisen handelt. Jede Äußerung ist willkommen, sie muss nur positiv sein. Sie werden staunen, was da alles zusammenkommt! Immer, wenn Sie Selbstzweifel hegen, können Sie sich diese Notizen durchlesen. Das gibt neuen Mut und erinnert Sie daran, wie sehr andere Sie schätzen. Was in diesen Notizen steht, sollten Sie annehmen und lernen, sich auch selbst so zu betrachten.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_28b</id>
+
+<title>Hilfe zur Selbsthilfe</title>
+
+<subtitle>Diese App ist nur der Anfang</subtitle>
+
+<text>
+
+Diese App hat sich als wirksam erwiesen, die psychische Befindlichkeit bei regelmäßiger Anwendung zu verbessern (siehe &lt;a href='https://www.uke.de/mkt_app'&gt;www.uke.de/mkt_app&lt;/a&gt;). Jede Übung beruht auf wissenschaftlichen Erkenntnissen. Die Übungen sind knapp gehalten – üblicherweise 200-300 Wörter. Komplexere Techniken oder Programme können in dieser Kürze daher nicht vermittelt werden. Über die Seite &lt;a href='https://clinical-neuropsychology.de/interventionen/'&gt;https://clinical-neuropsychology.de/interventionen/&lt;/a&gt; gelangen Sie zu weiteren kostenlosen Angeboten unserer Arbeitsgruppe. Eine Psychotherapie kann durch diese App oder andere Selbsthilfeangebote unterstützt, aber nicht ersetzt werden.
+
+Wir empfehlen Ihnen außerdem, Selbsthilfegruppen zu besuchen. Auch online Chats oder Facebook-Gruppen werden von vielen als unterstützend empfunden. Sehen Sie die App als ersten, wichtigen Baustein, Ihr Wohlbefinden wieder stärker in die eigenen Hände zu nehmen. Viel Erfolg!
+
+Sollten Sie Probleme mit Glücksspiel haben, raten wir Ihnen unser online-Portal Neustart zu nutzen (&lt;a href='https://www.neustart-spielerhilfe.de'&gt;www.neustart-spielerhilfe.de&lt;/a&gt;). Darüber hinaus gibt es auch Angebote von der Bundeszentrale für gesundheitliche Aufklärung (BzgA; &lt;a href='https://www.check-dein-spiel.de/'&gt;https://www.check-dein-spiel.de/&lt;/a&gt;)
+
+</text>
+
+</exercise>
+
+</exercises>
+
+</category>
+
+<category>
+
+<title>Kommunikation &amp; Beziehungen</title>
+
+<icon>comment-alt</icon>
+
+<imgSrc>category/communication</imgSrc>
+
+<color>#ff7723</color>
+
+<exercises>
+
+<exercise>
+
+<id>de_29</id>
+
+<title>Fakten</title>
+
+<subtitle>Überprüfen Sie den Eindruck anderer</subtitle>
+<text>
+
+Einige Menschen neigen dazu, Negatives in Dinge und Menschen hineinzuinterpretieren, obwohl es dafür keine echten Beweise gibt, die diese Schlussfolgerungen stützen. So ist es z.B. typisch für Menschen mit depressiven Symptomen, negative Gedanken anderer „zu lesen“. Dabei werden negative Gedanken in Worten und Handlungen anderer Menschen gewittert, ohne dass es dafür stichhaltige Beweise gibt oder die Annahme überprüft wurde.
+
+Kennen Sie das? Hat es in der letzten Zeit eine solche Begebenheit gegeben? Überlegen Sie sich eine alternative Erklärung für das Verhalten der anderen. Was fallen Ihnen für andere Gründe ein? Denken Sie daran, dass es einen gewichtigen Unterschied zwischen Ihrer und der Sichtweise anderer gibt.
+
+Wenn Sie sich beispielsweise für wertlos halten, müssen andere das noch lange nicht genauso empfinden. Notieren Sie Ihre neuen, hilfreicheren Bewertungen und prüfen Sie auch in Zukunft genau, welche Beweise es gibt, wenn Sie bei anderen negative Gedanken oder Verhaltensweisen Ihnen gegenüber vermuten.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_29_a</id>
+
+<title>Wie wir über uns reden prägt unser Selbstbild</title>
+
+<subtitle>Achtsamer über und mit sich selbst sprechen </subtitle>
+
+<text>
+
+Sprache hilft uns, unsere Wahrnehmungen, Einstellungen, Erinnerungen und Gefühle auszudrücken, z.B. wenn wir uns mit Freunden darüber austauschen, was uns gerade durch den Kopf geht oder auf der Seele liegt. Aber: die Sprache, die wir gebrauchen, kann auch unsere Gefühle, Einstellungen und sogar unsere Erinnerungen beeinflussen. Ein einfaches Beispiel: die Psychologin Elizabeth Loftus konnte nachweisen, dass Menschen den Zusammenstoß zweier Autos in einem Film später als schneller und heftiger erinnerten, wenn gefragt wurde, mit welcher Geschwindigkeit die Autos aufeinander „prallten“ im Vergleich zu „berührten“. Die Sprache veränderte also die Erinnerung.
+
+Ein anderes Beispiel: in wissenschaftlichen Artikeln war es früher üblich, von z.B. „Epileptikern“ zu sprechen. Mittlerweile wird gefordert, stattdessen die Formulierung „Menschen mit Epilepsie“ zu wählen. Das klingt nach Wortklauberei, hat aber den Hintergrund, dass die Einengung einer Person auf eine Störung der Vielschichtigkeit der Person nicht gerecht wird. Interessen, Werte, Leistungen und anderes geraten in den Hintergrund. Kein Mensch sollte daher auf seine Störung reduziert werden, da auch hier die Sprache unsere Einstellungen und Gefühle beeinflusst – und zwar negativ.
+
+Wenn wir mit uns unzufrieden sind, beschimpfen wir uns z.B. mit „ich bin doof“. Dies wird wie eine Wahrheit ausgesprochen, dabei handelt es sich nur um eine Bewertung, die nicht stimmen muss. Damit Bewertungen nicht als Tatsache verkannt werden, sollten Sie sich jedes Mal, wenn Sie sich dabei ertappen, sich zu beleidigen oder klein zu machen, korrigieren. Wenn Sie also den Gedanken haben „Ich bin ein Versager“ sagen Sie sich stattdessen: „Ich bin gerade schlecht drauf und habe jetzt gerade das Gefühl, ein Versager zu sein“. Das klingt spitzfindig, aber hierdurch schaffen Sie Distanz zu Ihren Bewertungen und erreichen, dass Ihr Selbstbild nicht leidet.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_30</id>
+
+<title>Grenzen</title>
+
+<subtitle>Üben Sie, Grenzen zu setzen</subtitle>
+
+<text>
+
+Haben Sie manchmal das Gefühl, dass Sie mit Ihren Bedürfnissen übergangen werden oder dass andere bei Ihnen Grenzen überschreiten? Üben Sie, sich in sozialen Situationen Gehör zu verschaffen bzw. auch einmal „Nein“ zu sagen. Machen Sie sich beispielsweise in Situationen, in denen Sie jemand ständig unterbricht oder nicht zu Wort kommen lässt, freundlich aber bestimmt bemerkbar (z.B. „Ich habe noch nicht zu Ende geredet“; „Ich würde dazu auch gerne etwas sagen“).
+
+Ein anderes Beispiel ist eine zu weit reichende Bitte eines Freundes. Wenn Sie hier einmal „Nein“ sagen, gefährden Sie nicht gleich Ihre Freundschaft. Ein echter Freund wünscht sich sogar in der Regel eine ehrliche Rückmeldung von Ihnen und kein vorgetäuschtes Einverständnis. Fällt Ihnen eine derartige konkrete Situation aus den letzten Wochen ein?
+
+Erinnern Sie sich daran und überlegen Sie sich, wie Sie freundlich aber bestimmt reagieren können. Üben Sie zunächst, Ihre Grenzen in Gedanken zu setzen. Dies kann helfen, dass es später auch in einer realen Situation klappt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_31</id>
+
+<title>Umgang mit positiven Rückmeldungen</title>
+
+<subtitle>Lernen Sie, Lob anzunehmen</subtitle>
+
+<text>
+
+Lob anzunehmen fällt gerade Menschen mit einem geringen Selbstwertgefühl oft schwer. So werden positive Rückmeldungen manchmal bestritten oder als Ausnahme betrachtet, sodass ein Lob nicht
+
+verinnerlicht werden kann. Es kommen dann möglicherweise Gedanken wie „Der andere ist unehrlich und versucht nur, mir zu schmeicheln“ oder „Das war einfach nur Zufall“. Kennen Sie das?
+
+Denken Sie an ein Lob oder eine positive Bemerkung einer anderen Person aus der Vergangenheit und überlegen Sie, wie Sie damals reagiert haben. Konnten Sie das Lob annehmen? Wenn nicht, denken Sie daran, wann Sie selbst andere loben. Das geschieht wahrscheinlich, weil jemand tatsächlich etwas gut gemacht hat oder Sie der anderen Person eine Freude machen wollten. Versuchen Sie, das Lob, das Sie bekommen haben, als ein Geschenk zu betrachten, und werten Sie es nicht durch Äußerungen wie „Ach, so toll war das ja gar nicht“ ab.
+
+Wenn Sie ein Geschenk bekommen, bedanken Sie sich ja vermutlich auch dafür und nehmen es an. Betrachten Sie es bei einem Lob genauso. Bedanken Sie sich dafür und nehmen Sie es an. Das erfordert ein wenig Übung, kann aber dazu beitragen, erhaltenes Lob auch zu verinnerlichen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_32</id>
+
+<title>Negatives Feedback</title>
+
+<subtitle>Wie gehen Sie mit Kritik um?</subtitle>
+
+<text>
+
+Der Umgang mit negativen Rückmeldungen kann schwierig sein. Manche Menschen generalisieren diese und nehmen sie sich besonders zu Herzen. Beispielsweise kann auf Kritik der Gedanke folgen: „Der andere hat mich durchschaut, ich bin ein Versager“. Ein solcher Gedanke ist wenig hilfreich und misst der Kritik größere Bedeutung bei als nötig.
+
+Eine viel hilfreichere Bewertung der Kritik wäre: „Stimmt die Kritik in Teilen? Was kann ich aus der Kritik lernen, was kann ich das nächste Mal anders machen?“ oder auch „Eventuell hat der andere einen schlechten Tag, so schlecht war das nicht“. Denken Sie an eine konkrete Situation aus den letzten Tagen, in der Sie kritisiert wurden oder eine andere Person unfreundlich zu Ihnen war. Überdenken Sie Ihre Reaktion und Gedanken. Dafür ist es sinnvoll, Kritik differenziert und situationsbedingt zu betrachten.
+
+So kann Kritik durchaus in einer konkreten Situation angemessen gewesen sein. Das heißt aber keinesfalls, dass Sie sich immer kritikwürdig verhalten würden oder sogar schlecht sind. Nicht Sie als Person insgesamt wurden kritisiert, sondern ein spezielles Verhalten von Ihnen in einer bestimmten Situation.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_33</id>
+
+<title>Blickkontakt</title>
+
+<subtitle>Üben Sie Blickkontakt aufzunehmen und zu halten</subtitle>
+
+<text>
+
+Blickkontakt ist wichtig, um mit anderen Menschen in Verbindung zu treten und Vertrauen aufzubauen. Außerdem wirken und fühlen sich Menschen, die Blickkontakt halten können, selbstsicherer.
+
+Trainieren Sie mit der folgenden Übung, Blickkontakt zu halten:
+
+Unternehmen Sie einen kleinen Spaziergang oder gehen Sie eine halbe Stunde einkaufen und schauen Sie dabei einigen Menschen direkt in die Augen und lächeln Sie dabei. Das erfordert manchmal ein wenig Übung, damit es natürlich wirkt. Lassen Sie sich nicht davon entmutigen, wenn das Lächeln nicht immer erwidert wird – das hat weniger mit Ihnen als mit Ihrem Gegenüber zu tun.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_34</id>
+
+<title>Achtsames Zuhören</title>
+
+<subtitle>Üben Sie achtsames Zuhören und Sprechen</subtitle>
+
+<text>
+
+In dieser Übung geht es um achtsames Zuhören und Sprechen. Allzu oft hören wir anderen eher schlecht als recht zu und überlegen bereits während der andere redet, was wir erwidern oder selbst erzählen können. Dadurch entgeht uns vieles von dem, was der andere zu sagen hat, oder wir setzen uns unter Druck. Achtsames Zuhören kann helfen, andere besser zu verstehen und Gespräche stärker zu genießen.
+
+Machen Sie dazu folgende Übung: Wenn Sie das nächste Mal mit jemandem reden, richten Sie Ihre ganze Aufmerksamkeit auf diese Person. Planen Sie nicht schon Ihre Antwort, während der Andere noch redet. Hören Sie nur zu – sonst nichts. Machen Sie sich klar, was die Meinung Ihres Gesprächspartners ist und was er oder sie Ihnen sagen möchte. Erst wenn Ihr Gegenüber fertig gesprochen hat, nehmen Sie sich Zeit, Ihre Gedanken zu sammeln und auf das Gesagte einzugehen. Dabei kann manchmal helfen, v.a. wenn eine Geschichte sehr komplex ist, wenn Sie das, was der andere gesagt hat, zunächst in eigenen Worten zusammenfassen und ihn fragen, ob Sie ihn richtig verstanden haben. Es macht Sie übrigens zu einem interessanten Gesprächspartner, wenn Sie nicht nur von sich erzählen und Monologe halten, sondern auch zuhören und Fragen oder eigene Ansichten einwerfen können.
+
+Wenn Sie Ihrerseits merken, dass Ihr Gesprächspartner versucht Sie zu unterbrechen, während Sie reden, bitten Sie ihn freundlich Sie ausreden zu lassen. Ziel der Übung ist, mit anderen ohne Stress und Ungeduld zu kommunizieren und Spaß am Austausch zu haben.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_35</id>
+
+<title>Das Miteinander verbessern</title>
+
+<subtitle>Üben Sie Ich-Botschaften</subtitle>
+
+<text>
+
+Bei hitzigen Diskussionen oder auch Konflikten neigen viele Menschen dazu, Du-Botschaften („Du hörst mir nie zu“, „Du setzt mich unter Druck“) zu verwenden. Dies führt häufig zu einer Eskalation der Situation, denn Du-Botschaften werden vom Gegenüber schnell als aggressive Kritik und Rechthaberei aufgenommen und führen dann zum „Gegenangriff“.
+
+Ein Mittel, Konflikte im Gespräch zu entschärfen, stellen konkrete (situationsbezogene) Ich-Botschaften dar. Sie zeigen, dass die eigene Wahrnehmung subjektiv ist und geben dem Gegenüber die Möglichkeit, die Kritik bzw. Ihre Wahrnehmung anzunehmen oder auch nicht. Ich-Botschaften sind also eine Art der gewaltlosen Kommunikation. In einer Ich-Botschaft werden eigene Beobachtungen und Gefühle sowie Bedürfnisse beschrieben und deren Umsetzung als Bitte ausgedrückt, z.B. „Ich habe das Gefühl, dass ich gar nicht richtig zu Wort komme. Ich fühle mich gerade nicht ernst genommen. Ich würde dazu gerne noch etwas sagen“.
+
+Üben Sie Ich-Botschaften, um Ihre Kommunikation zu verbessern: Erinnern Sie sich an eine schwierige Gesprächssituation. Stellen Sie sich vor, Ihnen gegenüber säße Ihr Gesprächspartner. Schildern Sie nun Ihre Sichtweise und Gefühlslage in Form von Ich-Botschaften.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_36</id>
+
+<title>Die Stimme erheben</title>
+
+<subtitle>Üben Sie selbstsicheres Sprechen</subtitle>
+
+<text>
+
+Schnelles, leises Sprechen lässt uns unsicher erscheinen, wohingegen angemessen lautes und langsames Sprechen den Eindruck von Selbstvertrauen vermittelt.
+
+Machen Sie folgende Übung zum selbstsicheren Sprechen: Stellen Sie sich vor einen Spiegel und atmen Sie ein paar Mal tief ein und aus. Erzählen Sie dann Ihrem Spiegelbild langsam und mit fester, lauter Stimme, was Sie am Vortag erlebt haben. Versuchen Sie dabei, mit einer etwas tieferen Stimme zu reden, denn die Stimme wird höher, wenn wir nervös sind. Am besten führen Sie diese Übung mehrfach durch und nehmen sich selbst auf, um es danach anzuhören. Übung macht auch hier den Meister.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_37</id>
+
+<title>Proben</title>
+
+<subtitle>Visualisieren Sie ein bevorstehendes wichtiges Ereignis</subtitle>
+
+<text>
+
+Schon lange nutzen Sportler die Methode des kreativen Visualisierens. Dabei führen sie schwierige sportliche Übungen zunächst in ihrer Vorstellung durch. Dieses Vorgehen hat sich auch generell als Vorbereitung für Situationen bewährt, die mit großer Anspannung verbunden sind. Dies kann ein Vorstellungsgespräch sein, jemanden anzusprechen und um Hilfe zu bitten oder auch eine Rede zu halten.
+
+Überlegen Sie sich eine Situation, die Ihnen Unbehagen bereitet. Setzen Sie sich möglichst entspannt an einen ruhigen Ort und schließen Sie Ihre Augen. Denken Sie nun an das Ereignis, für das Sie Mut fassen möchten. Stellen Sie sich alle Einzelheiten möglichst genau vor: Was tun Sie? Welche Kleidung tragen Sie? Wie ist Ihre Körperhaltung? Wie klingt Ihre Stimme? Wie reagieren an der Situation beteiligte Personen? Stellen Sie sich dann vor, wie dieses Ereignis ganz Ihrem Wunsch entsprechend verläuft, also ein „Happy End“ nimmt. Proben Sie diese Szene nun wiederholt in Ihrer Vorstellung wie ein Schauspieler seine Rolle. Je vertrauter Sie mit der Situation und dem positiven Ausgang werden, desto sicherer fühlen Sie sich, wenn Sie sich tatsächlich in der Situation befinden. Dadurch erhöhen Sie die Wahrscheinlichkeit, dass das gewünschte Ereignis auch eintritt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_38</id>
+
+<title>Nebenwirkungen von psychologischer Behandlung</title>
+
+<subtitle>Änderungen brauchen Zeit und können zu Spannungen führen</subtitle>
+
+<text>
+
+Praktisch alle Medikamente haben Nebenwirkungen. Aber auch hilfreiche und effektive psychotherapeutische Techniken – so wie die, die Ihnen in den Übungen dieser App vermittelt werden – können Nebenwirkungen verursachen, also unerwünschte Effekte haben.
+
+Wie das? In den Übungen dieser App werden Sie dazu angeleitet, wie Sie sich besser abgrenzen können, wenn andere Ihre Bedürfnisse verletzen und wie Sie mit mehr Selbstvertrauen auftreten können. Neues Verhalten braucht Zeit, um verinnerlicht und natürlicher Teil Ihrer Persönlichkeit zu werden. Am Anfang reagieren viele Menschen, die neue Techniken erlernen, über. Sie grenzen sich z.B. übermäßig stark gegenüber anderen ab, auch in Situationen, in denen sie vielleicht zuvorkommend sein sollten. Neues Verhalten wird oft auch als erstes gegenüber Menschen erprobt, bei denen man davon ausgeht, dass sie einem eher verzeihen. Es trifft dann leicht die Falschen: Eben nicht diejenigen, die einen früher untergebuttert haben, sondern diejenigen, die es gut mit einem meinen.
+
+Außerdem: Wenn Sie plötzlich anfangen, auch mal „nein“ zu sagen und selbstsicherer auftreten, wird dies nicht allen in Ihrer Umgebung gefallen und kann zu Konflikten führen. Sie sollten Ihren Willen zu mehr Unabhängigkeit unbedingt fortsetzen. Machen Sie sich aber bewusst, dass es dauert, bis Sie die vorgestellten Techniken beherrschen und diese ein natürlicher Teil Ihres Verhaltens werden. Und lassen Sie auch Ihren Mitmenschen Zeit, sich darauf einzustellen. Es kann hilfreich sein, transparent zu machen, dass Sie dabei sind, sich selbst ein wenig neu zu erfinden.
+
+Sie sollten darauf achten, sich trotz des Ziehens persönlicher Grenzen sozial zu verhalten, um sich nicht zu isolieren. Schließlich brauchen Sie andere Menschen auch! Wenn Sie früher zu oft das gemacht haben, was andere von Ihnen wollten und wenig auf Ihre persönlichen Interessen geachtet haben, rechtfertigt das nicht plötzlichen blanken Egoismus. Finden Sie einen Mittelweg, der sich für Sie gut anfühlt.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_38a</id>
+
+<title>Fragen kostet nichts</title>
+
+<subtitle>Üben Sie, auf andere zuzugehen</subtitle>
+
+<text>
+
+Bei dieser Übung geht es darum, fremde Personen anzusprechen, womit viele Menschen Probleme haben und deshalb oft vermeiden. Je seltener man das macht, desto schwerer fällt es einem entsprechend. Also einfach mal ausprobieren und nicht lange drüber nachdenken, was das Gegenüber vielleicht über Sie denken könnte – Sie können schließlich keine Gedanken lesen! Es gibt viele Möglichkeiten diese Übung durchzuführen. Es geht darum, sich gegen die Angst vor Ablehnung und Zurückweisung zu stellen und die Hemmung zu überwinden, jemanden anzusprechen. Wichtig ist, dass Sie versuchen, in dem kurzen Gespräch gut zuzuhören und möglichst nicht darauf zu achten, wie Sie selbst sich fühlen, sondern Ihre Aufmerksamkeit ganz auf Ihr Gegenüber bzw. auf die Sache zu richten. Sprechen Sie laut und deutlich in einem freundlichen Tonfall. Fangen Sie mit einfachen Alltagssituationen an und machen Sie jede Übung mehrmals über die Zeit. Es geht bei der Übung auch darum festzustellen, dass es allmählich leichter wird. Seien Sie darauf vorbereitet, dass die
+
+Übung nicht jedes Mal klappt. Sie werden aus diesen Erfahrungen lernen und daran wachsen. Beispiele:
+
+- Fragen Sie jemanden nach dem Weg zur nächsten Post o.ä. Es ist völlig egal, wonach Sie fragen, es geht darum, sich zu überwinden und festzustellen, dass es nicht so schlimm ist, wie Sie dachten.
+
+- Gehen Sie in ein Geschäft und lassen Sie sich bezüglich eines Produktes beraten. Fragen Sie z.B. eine Verkäuferin, ob ein Kleidungsstück bei der Wäsche einlaufen könnte, ob man es auch in einer anderen Farbe haben kann oder, ob sie nachsehen könnte, ob es in einer anderen Größe vorrätig ist.
+
+- Rufen Sie jemanden an, den Sie lange nicht mehr gesehen haben, und sprechen Sie mit ihm oder ihr mindestens 5 Minuten darüber, wie es der Person und Ihnen in der letzten Zeit ergangen ist.
+
+</text>
+
+</exercise>
+
+</exercises>
+
+</category>
+
+<category>
+
+<title>Achtsamkeit &amp; Innere Ruhe</title>
+
+<icon>eye</icon>
+
+<imgSrc>category/mindfulness</imgSrc>
+
+<color>#67487f</color>
+
+<exercises>
+
+<exercise>
+
+<id>de_39</id>
+
+<title>Dankbarkeit</title>
+
+<subtitle>Wofür sind Sie dankbar in Ihrem Leben?</subtitle>
+
+<text>
+
+Denken Sie einige Momente lang daran, wofür Sie dankbar sind. Auch wenn es Ihnen gerade nicht gut gehen sollte, wird es sicherlich etwas geben, wofür Sie in Ihrem Leben dankbar sind.
+
+Dies können Personen sein, z.B. Ihre Mutter, die immer für Sie da ist, aber auch Dinge, Fähigkeiten oder Ereignisse, z.B. dass Sie eine schöne Wohnung oder einen Ausbildungsplatz gefunden haben, eine schöne Reise gemacht haben oder dass Sie eine gute Stimme und Spaß am Singen haben. Versuchen Sie, auch Dingen, die auf den ersten Blick nur negativ erscheinen, andere Seiten abzugewinnen: Vielleicht sind Sie z.B. aufgrund von psychischen Problemen in eine Selbsthilfegruppe eingetreten und haben dort gute Freunde gefunden? Auf diese Weise hätte ein belastendes Problem für Sie auch zu etwas Gutem geführt. Oder Sie wissen nach einer schwierigen Zeit, dass Sie sich auf bestimmte Freunde in jeder Situation verlassen können. Viele Menschen möchten zu Recht Erfahrungen emotionaler Tiefe nicht missen, auch wenn diese zunächst schmerzlich waren.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_40</id>
+
+<title>Gedankenunterdrückung</title>
+
+<subtitle>Machen Sie ein Experiment: Gedankenunterdrückung</subtitle>
+
+<text>
+
+Viele Menschen mit depressiven Gedanken versuchen, „schlimme Gedanken“ aktiv zu unterdrücken. Führen Sie sich den paradoxen Effekt der Gedankenunterdrückung vor Augen.
+
+Denken Sie mal bewusst nicht an etwas, z.B. einen Elefanten. Sie werden merken: Es funktioniert nicht! Ganz im Gegenteil, der „verbotene“ Gedanke wird sogar häufig noch stärker. Um jenen Gedanken, den Sie sonst an die kurze Leine nehmen, einmal freien Lauf zu lassen, schließen Sie Ihre Augen und stellen Sie sich Folgendes vor: Ihre Gedanken sind Blätter auf einem Bach, die angetrieben kommen und mit dem Strom auch wieder davonschwimmen. Sie werden sehen, dass durch den Verzicht der Gedankenkontrolle das Dranghafte der Gedanken abnimmt. Vergleichbar ist dies mit Kindern, denen man etwas strengstens verbietet. Oft entsteht erst durch das Verbot der Drang, dieses zu missachten.
+
+Und machen Sie sich stets bewusst: Gedanken sind nur Gedanken. Ein Gedanke ist keine Tatsache, er muss nicht stimmen und er ist nicht mit Taten oder gar der Wahrheit gleichzusetzen!
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_41</id>
+
+<title>Schöne Momente beachten</title>
+
+<subtitle>Erleben und erinnern Sie schöne Momente bewusster</subtitle>
+
+<text>
+
+Häufig ziehen die schönen Momente im Leben an uns vorbei, ohne dass wir sie wirklich ausgekostet haben. Wir sind förmlich im „Autopilot-Modus“ oder innerlich schon wieder beim nächsten Vorhaben.
+
+Um sich der schönen Augenblicke bewusster zu werden, probieren Sie Folgendes aus: Tragen Sie in der linken Hosentasche ein paar kleine bunte Steinchen oder etwas Ähnliches. Lassen Sie einfach einen Stein von der linken in die rechte Hosentasche wandern, sobald Sie wegen etwas Freude verspüren. Das können besondere Anlässe sein (z.B. der Anruf eines alten Freundes), aber auch Kleinigkeiten des Alltags, die Sie glücklich machen (z.B. eine Tasse frischer Kaffee, der Ihnen wirklich gut geschmeckt hat; das nette Lächeln der Nachbarin). Am Ende des Tages schauen Sie sich die „Ausbeute“ in Ihrer rechten Tasche an und lassen die Situationen noch einmal bewusst Revue passieren.
+
+So erinnern Sie sich auch an schöne Momente, die sonst unbeachtet vorübergezogen wären. Diese Achtsamkeit für positive Erlebnisse hilft, das Wohlbefinden langfristig zu steigern.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_42</id>
+
+<title>Schöne-Momente-Tagebuch</title>
+
+<subtitle>Notieren Sie sich, was Sie Schönes erlebt haben</subtitle>
+
+<text>
+
+Denken Sie einmal am Tag darüber nach, was Sie über den Tag Positives erlebt haben, und schreiben Sie dies, am besten vor dem Schlafengehen, auf. Das können größere oder auch ganz kleine Momente gewesen sein.
+
+Gibt es etwas, was Ihnen heute gut gelungen ist, etwas wofür Sie dankbar sind? Vielleicht haben Sie sich zu etwas aufgerafft, was Ihnen sonst schwerfällt? Oder Sie haben einer Versuchung widerstanden, worauf Sie stolz sein können? Auch wenn Sie heute insgesamt einen schlechten Tag gehabt haben, wird es bestimmt etwas geben, das positiv war. Dies können Kleinigkeiten sein, z.B. das Lächeln einer fremden Person auf der Straße, ein guter Einfall oder eine leckere Mahlzeit. Wenn Sie mögen, können Sie sich dafür ein kleines Notizbuch anlegen und jeden Tag entsprechende Einträge machen, um den Fokus auf die positiven Aspekte des Tages zu legen. Daraus wird im Laufe der Zeit ein Schöne-Momente-Tagebuch. Sich am Ende des Tages vor Augen zu führen, was es in Ihrem Leben Schönes gibt, kann Ihnen helfen, sich besser zu fühlen, fröhlicher zu sein, und führt aus negativen Gedankenschleifen heraus.In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_43</id>
+
+<title>Kompliment</title>
+
+<subtitle>Machen Sie Ihrem Spiegelbild ein Kompliment</subtitle>
+
+<text>
+
+In einer Phase depressiver Stimmung sehen Menschen häufig nur negative Dinge in ihrer Umgebung, aber auch an sich selbst. Dabei geht völlig unter, was sie eigentlich an sich selbst mögen. Kennen Sie das? Versuchen Sie, eine derartige Wahrnehmung mit der folgenden Übung zu unterbrechen.
+
+Stellen Sie sich vor einen Spiegel und schauen Sie sich freundlich an. Denken Sie daran, was Sie an sich selbst mögen, und sprechen Sie es laut aus. Versuchen Sie, mindestens drei Dinge zu finden, die Sie an sich selbst mögen; das können auch scheinbare Kleinigkeiten sein. Machen Sie sich selbst Komplimente und genießen Sie einen Moment lang das Kompliment, das Sie soeben erhalten haben.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_44</id>
+
+<title>Ruheort</title>
+
+<subtitle>Stellen Sie sich Ihren Ruheort vor</subtitle>
+
+<text>
+
+Vorstellungsübungen und innere Reisen sind für viele Menschen gewöhnungsbedürftig. Probieren Sie diese Übung aus, auch wenn Sie vielleicht Zweifel haben oder zunächst ein gewisses Unbehagen verspüren.
+
+Nehmen Sie sich einige Minuten Zeit – wenn Sie mögen, schließen Sie dabei die Augen. Stellen Sie sich einen Ort vor, an dem Sie sich ganz geborgen und sicher fühlen. Dies kann ein realer Ort sein
+
+oder ein Ort in Ihrer Vorstellung, z.B. die Krone eines großen Baums mit dickem Stamm sein, der auch einem Sturm standhält. Oder Sie befinden sich in einem Haus am Meer, aus dem Sie auf die Wellen rausschauen können, während es drinnen angenehm warm ist. Oder Sie sitzen auf einem gemütlichen Sofa vor einem wärmenden Kamin. Wie sieht Ihr Ort aus? Stellen Sie ihn sich detailliert vor, mit allen Sinnen.
+
+Wie sieht es dort aus? Was können Sie hören, riechen und spüren? Ruhen Sie sich eine Weile an diesem sicheren Ort aus und tanken Sie Kraft für den Alltag um Sie herum. Wann immer Sie es brauchen, können Sie innerlich an diesen Ruheort zurückkehren. Nehmen Sie sich mit Hilfe Ihres „Kopfkinos“ immer mal eine kleine Auszeit.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_45</id>
+
+<title>Berg im Sturm</title>
+
+<subtitle>Seien Sie ein Berg im Sturm</subtitle>
+
+<text>
+
+Vorstellungsübungen und innere Reisen finden einige Menschen esoterisch und albern. Wenn sie sich auf sie einlassen, können aber auch vernunftbetonte Menschen von ihnen profitieren.
+
+Falls Ihnen Stress sehr stark zusetzt, kann es hilfreich sein, die folgende Imaginationsübung zu machen. Suchen Sie sich einen ruhigen, bequemen Platz und nehmen Sie sich einige Minuten Zeit. Lassen Sie vor Ihrem geistigen Auge einen schönen, beeindruckenden Berg entstehen. Stellen Sie sich nun vor, wie sich im Zeitraffer im Hintergrund des Berges Tag und Nacht abwechseln. Der Berg bleibt wie er ist, groß und stabil, egal was um ihn herum passiert. Stellen Sie sich den Berg einmal schneebedeckt, von der Sonne angeschienen oder in einem Unwetter mit Blitz und Hagel vor. Vielleicht laufen Wanderer auf ihm herum.
+
+Der Berg bleibt, wie er ist, er trotzt allen Einflüssen und Unwettern. Stellen Sie sich nun vor, selbst dieser Berg zu sein. Nehmen Sie das Bild symbolisch mit einem tiefen Atemzug in sich auf und lassen Sie, wie der Berg, alle Widrigkeiten an sich abprallen. Versuchen Sie, dieses Gefühl auch nach dem Übungsende beizubehalten, sodass es Ihnen besser gelingt, Herausforderungen im Alltag mit größerer Festigkeit anzugehen.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_46</id>
+
+<title>Freude am Denken</title>
+
+<subtitle>Versuchen Sie, sich an Ihrem Denken zu erfreuen</subtitle>
+
+<text>
+
+Oft bereitet uns das Denken Kummer. Es kann aber auch die Quelle großer Freude sein. Hängen Sie doch einmal schönen Gedanken und Erinnerungen nach und lassen Sie Ihre Gedanken den „Filmvorführer“ spielen. Nehmen Sie sich dafür einen Augenblick Zeit und suchen Sie sich einen ruhigen Ort. Geben Sie sich dann Ihrem „Kopfkino“ hin.
+
+Das können z.B. positive Träumereien sein oder auch schöne Erinnerungen an einen vergangenen Urlaub. Es kann sein, dass sich vereinzelt negative Gedanken in die harmonische Bilderwelt einschleichen. Lassen Sie sich hiervon nicht irritieren. Gestehen Sie Ihren Gedanken ein gewisses Eigenleben zu. Versuchen Sie, die Gedanken zu den positiven Bildern zurückzuführen.
+
+Bei Einsamkeit oder Frustration kann es hilfreich sein, innere Dialoge mit einem imaginären freundlichen Begleiter zu führen. Das können Comicfiguren und Berühmtheiten sein oder auch Personen aus Ihrem Freundeskreis, die gerade nicht anwesend sind. Unternehmen Sie z.B. einmal einen Strandspaziergang mit Robert de Niro und unterhalten sich mit ihm. Solche Dialoge ersetzen selbstverständlich nicht den Austausch mit echten Menschen. Trotzdem stellt sich häufig ein Gefühl von Geborgenheit und Gelassenheit ein, nachdem wir uns Dinge innerlich von der Seele geredet haben.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_47</id>
+
+<title>Innere Bilder</title>
+
+<subtitle>Gedanken als innere Bilder</subtitle>
+
+<text>
+
+Ständig spuken uns Gedanken im Kopf herum, manche sind gut und sinnvoll, einige aber auch nicht. Neue, aus der buddhistischen Tradition abgeleitete psychotherapeutische Techniken raten zu einer gewissen Distanzierung von den negativen Gedanken durch innere Bilder (Metaphern).
+
+Dies soll die Erkenntnis stärken, dass sich die Gedanken zwar in unserem Kopf abspielen und somit natürlich irgendwie zu uns gehören, sich aber oft unserer Kontrolle und damit auch Verantwortung entziehen. Stellen Sie sich Ihre Gedanken z.B. wie Luftballons vor, die in den Himmel emporschweben, oder wie Kohlensäurebläschen in einer großen Flasche. Sie tauchen quasi aus dem Nichts auf, steigen nach oben und entschwinden. Negative Gedanken können Sie sich auch wie Regenwolken vorstellen, die kommen, vorbeiziehen und am Ende den Blick auf einen blauen Himmel freigeben.
+
+Gedanken sind flüchtige Erscheinungen, die Sie nur zum Teil beeinflussen können – insbesondere was die Inhalte angeht. Betrachten Sie Ihre Gedanken, ohne sie zu bewerten. Lassen Sie sie kommen und wieder davonziehen. Üben Sie diese Technik möglichst für einige Minuten.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_48</id>
+
+<title>Gedankenreise</title>
+
+<subtitle>Machen Sie eine Traumreise</subtitle>
+
+<text>
+
+Schließen Sie die Augen und stellen Sie sich vor, Sie seien im Urlaub. Wo sind Sie? Stellen Sie sich einen Ort vor, an dem Sie glücklich sein können oder es einmal waren, an dem Sie sich entspannen und vom Alltag abschalten können. Wie sieht dieser Ort aus? Stellen Sie sich den Ort ganz konkret mit allen Sinnen vor.
+
+Wo ist dieser Urlaubsort? Was gefällt Ihnen dort ganz besonders, warum mögen Sie diesen Ort? Und was tun Sie dort? Konzentrieren Sie sich einen Moment auf die Gerüche, die Sie an diesem Ort wahrnehmen können. Nehmen Sie auch die Geräusche an diesem schönen Ort wahr und lauschen Sie. Nehmen Sie sich einige Minuten Zeit und genießen Sie Ihren Urlaub.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_49</id>
+
+<title>Starke Körperhaltung</title>
+
+<subtitle>Werden Sie mutiger und selbstsicherer</subtitle>
+
+<text>
+
+Um selbstsicherer zu wirken und sich gut zu fühlen, hilft es, die eigene Körperhaltung folgendermaßen zu verändern:
+
+1. Stellen Sie sich so hin, dass die Füße hüftbreit auseinander stehen. Ziehen Sie die Schultern zurück und strecken Sie Ihre Brust nach vorne. Heben Sie den Kopf etwas an. Lassen Sie die Knie locker und stützen Sie Ihre Hände locker in die Hüften.
+
+2. Stellen Sie sich nun vor, Sie seien ein starkes und mächtiges Tier, z.B. ein Bär, der auf den Hinterbeinen steht. Atmen Sie tief ein und aus. Fühlen Sie die Stärke und Kraft dieses Tieres. Machen Sie das für einige Zeit.
+
+3. Erinnern Sie sich im Verlauf des restlichen Tages immer mal wieder an diese Pose und nehmen Sie sie ein: Ziehen Sie dabei wieder die Schultern zurück, heben Sie den Kopf an und atmen Sie tief ein und aus.
+
+Machen Sie diese Übung am besten täglich, z.B. immer bevor Sie aus dem Haus gehen oder wenn Sie angespannt und nervös sind.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_50</id>
+
+<title>Das Freude-ABC</title>
+
+<subtitle>Das Positive (wieder) schätzen</subtitle>
+
+<text>
+
+Wenn wir niedergeschlagen sind, halten wir uns oft nur die Schattenseiten unseres Lebens vor Augen. Dies führt dazu, dass wir uns weiter schlecht und traurig fühlen. Aus diesem Teufelskreis können Sie jedoch ausbrechen!
+
+Richten Sie mit der nachfolgenden Übung den Blick auf die positiven Seiten Ihres Lebens: Notieren Sie auf einem Blatt das Alphabet. Schreiben Sie passend zu jedem Buchstaben mindestens eine Sache auf, die Ihnen in Ihrem Leben aktuell Freude bereitet oder Freude bereitet hat (z.B. F – Freunde; bei X-Z wird es schwierig – hier können Sie auch ein Wort hinschreiben, das den Buchstaben nur enthält).
+
+Lesen und erweitern Sie dieses Freude-ABC fortlaufend und kommen Sie an schlechten Tagen darauf zurück – vielleicht geht es bald so in Fleisch und Blut über, dass Sie es sich auch unterwegs innerlich aufsagen können.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_51</id>
+
+<title>Achtsames Atmen</title>
+
+<subtitle>Entspannen Sie sich durch Atemzählen</subtitle>
+
+<text>
+
+Durch eine ruhige und gleichmäßige Atmung verbessert sich die Sauerstoffversorgung im Körper; Anspannung und Stresserleben werden reduziert. Dies können Sie durch achtsames Atmen optimieren.
+
+Eine einfache oder wirksame Übung hierzu geht wie folgt: Legen oder setzen Sie sich gemütlich hin und schließen Sie Ihre Augen. Legen Sie eine Hand sanft auf Ihren Bauch und konzentrieren Sie sich auf Ihre Atmung. Nehmen Sie wahr, wie Sie einatmen und wieder ausatmen. Beginnen Sie nun Ihren Atem zu zählen und zwar von 29 abwärts, jeweils nach dem Ausatmen (laut oder in Gedanken). Atmen Sie nun bewusst langsam durch die Nase ein und auch langsam wieder aus – 29 – Ein – Aus – 28 usw., bis Sie bei 0 angekommen sind. Sollten Sie zwischendurch mit den Gedanken abschweifen oder sich verzählen, ist das nicht schlimm. Kehren Sie einfach mit Ihrer Aufmerksamkeit wieder zum Atemzählen zurück und beginnen Sie bei der letzten Zahl, die Sie noch erinnern. Natürlich können Sie diese Übung auch mehrfach wiederholen, sollten Sie sich sehr angespannt fühlen.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_52</id>
+
+<title>Achtsamkeit für den Körper</title>
+
+<subtitle>Entspannen Sie mit einem kurzen Body Scan</subtitle>
+
+<text>
+
+Der Body Scan ist eine sehr effektive Achtsamkeitsübung. Langfristig hilft die Übung, das körperliche Wohlbefinden zu steigern. Durch die völlige Konzentration auf den Körper gelingt es, sich besser zu entspannen und negative Gedanken loszulassen. Aber: Übung ist gefragt!
+
+Fangen Sie gleich damit an! Schalten Sie Ihr Handy aus, legen Sie sich bequem hin und schließen Sie Ihre Augen. Konzentrieren Sie sich mit Ihrer Wahrnehmung zunächst auf Ihren Atem und spüren Sie, wie dieser ein- und ausströmt und sich Ihre Bauchdecke dabei hebt und senkt. Wandern Sie dann mit Ihrer Aufmerksamkeit durch Ihren Körper von den Füßen bis zum Scheitel und nehmen Sie jedes einzelne Körperteil einige Sekunden achtsam wahr: Linker Fuß und Zehen – linkes Bein – rechter Fuß und Zehen – rechtes Bein – Becken und Hüften – unterer und oberer Rücken – Bauch und Brust – linke Hand und linker Arm – rechte Hand und rechter Arm – Schultern, Nacken und Hals – Gesicht mit Stirn, Augenpartie, Kiefermuskeln, Lippen und Mund. Nehmen Sie zum Schluss noch einmal Ihren Körper als Ganzes wahr und genießen Sie das Gefühl der Ruhe und Stille. Öffnen Sie Ihre Augen und recken und strecken Sie sich.
+
+Üben Sie den Body Scan so oft wie möglich, z.B. auch wenn Sie im Bus sitzen oder im Büro eine Pause machen. Falls Sie mal durcheinander kommen in der Abfolge: das ist überhaupt nicht schlimm! Sie finden im Internet auch viele Audios, die diese oder ähnliche Übungen anleiten und unterstützen.
+
+Die Audio-Version dieser Übung finden Sie mit dem Namen „Bodyscan“ in der Bibliothek unter der Rubrik Audios. Als weitere Audio-Anleitung empfehlen wir zu dieser Übung die Audio-Datei „Morgenübung“.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_53</id>
+
+<title>Achtsames Essen</title>
+
+<subtitle>Genießen Sie eine Mahlzeit in Ruhe und in vollen Zügen</subtitle>
+
+<text>
+
+Achtsam zu essen bedeutet, darauf zu achten, woraus eine Mahlzeit besteht und wie sie schmeckt, ohne von etwas anderem abgelenkt zu sein. Durch achtsames Essen achten Sie mehr auf die Portionen, essen langsamer und merken, wann Sie satt sind. Der Genuss am Essen und die innere Ruhe werden gesteigert und Stress wird abgebaut.
+
+Versuchen Sie folgende Übung: Nehmen Sie eine Orange (Sie können gerne auch ein anderes gesundes Lebensmittel wählen). Betrachten Sie zunächst die Orange und nehmen Sie Form, Farbe, Oberfläche und Geruch wahr. Schälen Sie die Orange langsam. Wie fühlt sich das an? Nehmen Sie dann ein Stück Orange in den Mund und spüren Sie das Stück einen Moment auf Ihrer Zunge, bevor Sie es zerbeißen und merken, wie der Saft langsam Ihren Mund ausfüllt, und Sie diesen herunterschlucken. Nehmen Sie durch achtsames Essen bewusst wahr, wie viel und was Sie essen. So steigern Sie Ihr Genusserleben und essen außerdem nicht unbemerkt mehr.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_54</id>
+
+<title>Sorgenstopp</title>
+
+<subtitle>Lassen Sie Ihre Sorgen los</subtitle>
+
+<text>
+
+Sich Gedanken über ein Problem zu machen, kann helfen, dieses zu lösen. Sich ständig zu sorgen und zu grübeln, ist dagegen eine schlechte Angewohnheit, die nicht hilfreich ist und die Laune meist verdirbt. Es gibt unterschiedliche Wege, übermäßige Sorgen zu vertreiben. Einen davon möchten wir Ihnen nun vorstellen.
+
+Versuchen Sie folgende Übung: Schließen Sie einen Moment die Augen. Werden Sie sich der Dinge bewusst, die Sie gerade beunruhigen und binden Sie diese Sorgen in Ihrer Vorstellung wie ein Schildchen an einen Luftballon. Lassen Sie dann vor Ihrem inneren Auge den Luftballon los und verfolgen Sie mit Ihrem Blick, wie er in den Himmel emporschwebt und verschwindet.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_55</id>
+
+<title>Sonnenscheinimagination</title>
+
+<subtitle>Starten Sie sonnig in den Tag</subtitle>
+
+<text>
+
+Sonnenlicht ist für unser Wohlbefinden unabdingbar, denn es lässt den Spiegel des stimmungshebenden Hormons Serotonin in unserem Körper ansteigen.
+
+Starten Sie mit dieser Sonnenscheinimagination positiv in den Tag: Bleiben Sie am Morgen, wenn Sie aufwachen, noch einen Augenblick mit geschlossenen Augen liegen. Atmen Sie ruhig ein und langsam wieder aus und stellen Sie sich vor, Sie atmen einen goldenen und angenehm warmen Sonnenstrahl ein und aus. Stellen Sie sich vor, wie dieser Ihren Körper wohlig umgibt und schließlich den ganzen Raum ausfüllt. Genießen Sie das Bad im Licht und öffnen Sie dann Ihre Augen wieder. Nehmen Sie so viel Licht und positive Energie wie möglich mit in Ihren Tag und versuchen Sie auch, während des Tages natürliches Sonnenlicht aufzunehmen.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_56</id>
+
+<title>Abstand von negativen Gedanken</title>
+
+<subtitle>Tiger im Käfig</subtitle>
+
+<text>
+
+Negative Gedanken und Bewertungen verschlechtern unsere Stimmung. Gedanken bewusst zu unterdrücken, funktioniert jedoch nicht, sondern verstärkt diese im Gegenteil sogar noch. Probieren Sie es aus: Versuchen Sie die nächste Minute NICHT an die Zahl „8“ zu denken – es wird Ihnen kaum gelingen. Bei negativen Gedanken ist dieser Effekt im Übrigen noch stärker. Lernen Sie daher mit Hilfe der folgenden Übung eine beobachtende Haltung gegenüber Ihren negativen Gedanken einzunehmen.
+
+Nutzen Sie Ihre Vorstellungskraft: Stellen Sie sich vor, Ihr negativer Gedanke sei ein Tiger im Zoo, der hinter Gittern seine Runden dreht. Sie stehen vor dem Käfig und betrachten Ihren Tiger (den negativen Gedanken) mit Abstand, ohne dass er Ihnen etwas tut oder tun kann.
+
+Diese Übung führt zu einer Distanzierung von den negativen Gedanken. Eine solche Distanzierung kann helfen, die negativen Gefühle, die ein entsprechender Gedanke auslöst, zu reduzieren. Wenn wir den Gedanken mit Abstand betrachten und nur als Gedanken wahrnehmen, anstatt als Tatsache, wird er weniger bedrohlich und kann uns nicht mehr so vereinnahmen. Ein Gedanke ist eben nur ein Gedanke und spiegelt nicht unbedingt die Realität wider. Wenn wir immer sofort alles glauben würden, was unsere Gedanken uns nahelegen, wäre unser Leben ziemlich anstrengend.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_57</id>
+
+<title>Alternativer Umgang mit negativen Gedanken und Grübelschleifen</title>
+
+<subtitle>Das Kasperle-Theater</subtitle>
+
+<text>
+
+Grübeln unterscheidet sich vom Nachdenken dadurch, dass sich die Gedanken stets im Kreis drehen und keiner Lösung entgegenstreben. Zu grübeln verschlechtert auf Dauer die Stimmung und reduziert den Selbstwert. Problematisch an diesen Gedanken ist vor allem, dass wir zunehmend das Gefühl bekommen, wir könnten ihnen nicht entrinnen. Es gibt eine Vielzahl an Möglichkeiten, sich aus dem Kreis negativer Gedanken und Grübelschleifen zu befreien.
+
+Versuchen Sie Folgendes: Stellen Sie sich vor, Sie säßen in der letzten Reihe eines alten, etwas heruntergekommenen Theatersaals. Auf der Bühne wird ein Stück Ihrer Grübelschleifen und negativen Gedanken aufgeführt, dargestellt durch übertrieben agierende, laut sprechende Schauspieler. Es ist die altbekannte Leier. Sie lehnen sich vielleicht gelangweilt zurück und müssen gähnen. Sagen Sie sich z.B. „Ja, kenn‘ ich alles. Und für diesen Mist habe ich auch noch Eintritt bezahlt?“. Sie könnten, um dem Ganzen noch die Krone aufzusetzen, dann achselzuckend aufstehen und gehen. Lassen Sie Ihrer Fantasie freien Lauf.
+
+Diese Übung schafft ein wenig Abstand zu den Gedanken, die eben nicht die Wahrheit widerspiegeln, sondern Ausdruck Ihrer Sorgen und Ängste sind.
+
+In der Bibliothek finden Sie unter der Rubrik Audios eine Reihe von Audio-Übungen mit Anleitungen zum Thema Achtsamkeit. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+</exercise>
+
+<exercise>
+
+<id>de_57a</id>
+
+<title>Inneres Lächeln</title>
+
+<subtitle>Lassen Sie in sich ein Lächeln entstehen und strahlen</subtitle>
+
+<text>
+
+In dieser Übung werden Sie angeleitet, ein leichtes „inneres Lächeln“ einzunehmen. Das heißt ein Lächeln, das nur Ihnen selbst dient und das man von außen vielleicht gar nicht wahrnehmen kann. Das innere Lächeln kann helfen, zu einer positiveren inneren Haltung zu gelangen. Es kann die Stimmung heben und ein Gefühl der Leichtigkeit vermitteln.
+
+Setzen Sie sich dafür bequem hin, nehmen Sie eine aufrechte Position ein, entspannen Sie Ihre Hals- und Rückenmuskulatur und schließen Sie Ihre Augen. Atmen Sie einige Male entspannt ein und aus und lassen Sie Gedanken über die Vergangenheit und die Zukunft los. Beginnen Sie nun Ihr Gesicht ganz weich werden zu lassen und innerlich leicht zu lächeln, so dass Ihre Lippen sich voll und sanft anfühlen, sich Ihre Mundwinkel ganz leicht nach oben heben und Ihr Kiefer dabei ganz entspannt ist. Es ist ein leichtes inneres Lächeln. Das Lächeln ist nicht übertrieben, das Gesicht soll sich dabei entspannt und gut fühlen. Vielleicht merken Sie, dass während Sie weiter innerlich lächeln, das Lächeln Ihren ganzen Körper durchströmt. Bleiben Sie noch ein wenig in dieser Haltung und spüren Sie in sich hinein, bevor Sie ganz langsam und in Ihrem eigenen Tempo wieder die Augen öffnen und mit Ihrer Aufmerksamkeit in den Raum zurückkehren. Diese Übung können Sie praktisch überall und jederzeit in Ihren Alltag einbauen.
+
+Die Audio-Version dieser Übung finden Sie mit dem Namen „Inneres Lächeln“ in der Bibliothek unter der Rubrik Audios. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+<exercise>
+
+<id>de_57b</id>
+
+<title>Atembeobachtung</title>
+
+<subtitle>Kommen Sie zur Ruhe, indem Sie sich auf Ihren Atem konzentrieren</subtitle>
+
+<text>
+
+Diese Atemübung können Sie praktisch überall durchführen, nach etwas Übung auch kurz zwischendurch, um für einen Moment ganz bei sich zu sein.
+
+Nehmen Sie eine aufrechte Position ein. Schließen Sie die Augen oder, wenn Sie dazu neigen, schläfrig zu werden oder Ihnen das Augenschließen unangenehm ist, richten Sie Ihren Blick auf den
+
+Boden, auf einen Punkt in etwa zwei Meter Entfernung. Spüren Sie, wo Ihr Körper Kontakt mit dem Stuhl hat, wo er getragen und unterstützt wird. Nehmen Sie wahr, wie sich das anfühlt.
+
+Lenken Sie nun die Wahrnehmung auf Ihre Atmung und werden Sie sich bewusst, wie sich Ihr Körper im Atemrhythmus bewegt, und wo Sie diese Bewegung spüren können. Spüren Sie, wie die Luft durch Ihre Nase strömt, in die Brust und bis in den Bauch. Wo noch können Sie den Atem spüren? Schultern, Rücken, Unterleib? Fühlen Sie Temperaturunterschiede bei der Atemluft? Vielleicht ist sie beim Einatmen kühler als beim Ausatmen? Wenn Ihre Gedanken abschweifen, ist das in Ordnung. Versuchen Sie jedoch mit Ihrer Aufmerksamkeit wieder zu Ihrem Atem zurückzukehren. Erlauben Sie Ihrem Körper, einfach in seinem Rhythmus zu atmen. Sie brauchen nichts zu verändern oder zu kontrollieren. Beobachten Sie einfach die Empfindungen in Brustkorb und Bauch. Sobald Sie bemerken, dass Gedanken auftauchen, lenken Sie Ihre Aufmerksamkeit einfach wieder zurück zur Bewegung der Bauchdecke. Nach ein paar Minuten weiten Sie Ihre Aufmerksamkeit wieder auf den ganzen Körper aus, und auf den Raum, in dem Sie sitzen. Öffnen Sie die Augen oder lassen Sie Ihren Blick im Raum umherschweifen und seien Sie bereit und wach für das, was als nächstes auf Sie zukommt.
+
+Die Audio-Version dieser Übung finden Sie mit dem Namen „Atemübung“ in der Bibliothek unter der Rubrik Audios. Das regelmäßige Hören kann dabei helfen, sich besser zu entspannen und zur Ruhe zu kommen.
+
+</text>
+
+</exercise>
+
+</exercises>
+
+</category>
+
+</categories>
+
+</entry>
+
+</dataset>
