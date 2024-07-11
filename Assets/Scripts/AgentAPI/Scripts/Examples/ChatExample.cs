@@ -122,8 +122,8 @@ public class ChatExample : MonoBehaviour
                     GPTPrompt.Add(exercise1Text);
                     break;
             }
-            //GPTPrompt.Add(new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
-            //$"Ab jetzt sprichst du direkt mit dem Benutzer namens {username}. Spreche ihn mit Du oder seinem Namen an. Begrüße ihn freundlich und frage ihn, ob er die übung machen möchte und welches ziel diese hat."));
+            GPTPrompt.Add(new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
+            $"Ab jetzt sprichst du direkt mit dem Benutzer namens {username}. Spreche ihn mit Du oder seinem Namen an. Begrüße ihn freundlich und frage ihn, ob er die übung machen möchte und welches ziel diese hat."));
         }
         else
         {
