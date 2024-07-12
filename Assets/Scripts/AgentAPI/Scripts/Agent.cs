@@ -149,6 +149,7 @@ public class Agent : MonoBehaviour
 
     public void SetName(string name)
     {
+        Debug.Log("Username Set");
         Username = name;
     }
 
