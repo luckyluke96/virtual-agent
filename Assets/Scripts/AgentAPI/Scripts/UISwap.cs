@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ButtonHandler : MonoBehaviour
+public class UISwap : MonoBehaviour
 {
     public Button robotButton; // Reference to the button
     public GameObject robot; // Reference to the GameObject you want to move
     public GameObject hannah;
-    public bool hannahActive = true;
+    public static bool hannahActive = true;
 
     void Start()
     {
