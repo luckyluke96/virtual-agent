@@ -12,7 +12,7 @@ using UnityEngine;
         public NLPAPI NLPAPI;
 
         private bool timeIsUp = false;
-        private string username = "Obi Frankenberger";
+        private string username = "";
         private int exerciseNo = 4;
         public int convDurationMinutes = 2;
 
@@ -102,7 +102,7 @@ using UnityEngine;
 
         public void StartChatExample(string username, bool german = true, int exerciseNo = 6)
         {
-        hannahActive = UISwap.hannahActive; 
+        hannahActive = Agent.hannahActive; 
         if (hannahActive) {
                 exerciseNo = 4;
             } else {
