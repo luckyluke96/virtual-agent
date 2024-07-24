@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 [RequireComponent(typeof(AudioAPI))]
 public class MicrophoneRecorder : MonoBehaviour
@@ -20,6 +22,12 @@ public class MicrophoneRecorder : MonoBehaviour
 
     [Header("For Mobile")]
     public bool AutoselectMicrophone;
+
+    [Header("UI Elements")]
+    public TMP_InputField userInputField;
+    public Button submitButton;
+    public Button toggleInputModeButton;
+    private bool useVoiceInput = true;
 
     // https://github.com/oshoham/UnityGoogleStreamingSpeechToText/blob/master/Runtime/StreamingRecognizer.cs
 
@@ -61,6 +69,121 @@ public class MicrophoneRecorder : MonoBehaviour
         {
             SelectedMicrophoneDevice = Microphone.devices[0];
             SelectedMicrophone = true;
+        }
+
+        // Set up UI elements
+        submitButton.onClick.AddListener(OnSubmitTextInput);
+        toggleInputModeButton.onClick.AddListener(ToggleInputMode);
+
+        UpdateInputModeUI();
+    }
+
+    private void ToggleInputMode()
+    {
+        useVoiceInput = !useVoiceInput;
+        UpdateInputModeUI();
+    }
+
+    private void UpdateInputModeUI()
+    {
+        userInputField.gameObject.SetActive(!useVoiceInput);
+        submitButton.gameObject.SetActive(!useVoiceInput);
+        MicOn.SetActive(useVoiceInput);
+        MicOff.SetActive(!useVoiceInput);
+
+        if (useVoiceInput && SelectedMicrophoneDevice != null)
+        {
+            StartCoroutine(StartRecordingCoroutine());
+            toggleInputModeButton.GetComponentInChildren<TMP_Text>().text = "Switch to Text Input";
+        
+        }
+        else
+        {
+            StopRecording();
+            toggleInputModeButton.GetComponentInChildren<TMP_Text>().text = "Switch to Voice Input";
+        
+        }
+    }
+
+    private void OnSubmitTextInput()
+    {
+        string userInput = userInputField.text;
+        if (!string.IsNullOrEmpty(userInput))
+        {
+            ProcessTextInput(userInput);
+            userInputField.text = "";
+        }
+    }
+
+    private void ProcessTextInput(string input)
+    {
+        // Create a mock TranscriptionResult
+        var transcriptionResult = new AudioAPI.TranscriptionResult
+        {
+            alternatives = new List<AudioAPI.Alternative>
+            {
+                new AudioAPI.Alternative
+                {
+                    transcript = input,
+                    confidence = 1.0f
+                }
+            },
+            isFinal = true,
+            stability = 1.0f,
+            resultEndTime = new AudioAPI.ResultEndTime { seconds = "0", nanos = 0 },
+            channelTag = 1,
+            languageCode = "en-US"
+        };
+
+        // Invoke the delegate with the mock result
+        transcriptionDelegate?.Invoke(transcriptionResult);
+    }
+
+    // Other existing methods...
+
+    private void OnGUI()
+    {
+        // For WebGL
+        // https://github.com/tgraupmann/UnityWebGLMicrophone
+        // https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html
+        if (useVoiceInput && !SelectedMicrophone)
+        {
+            var x = 10;
+            GUILayout.BeginVertical(GUILayout.ExpandWidth(true));
+
+            GUI.color = Color.green;
+            GUILayout.Label("Select Microphone:");
+            GUI.color = Color.white;
+
+            foreach (var device in Microphone.devices)
+            {
+                if (GUILayout.Button(device, GUILayout.ExpandWidth(true)))
+                {
+                    SelectedMicrophoneDevice = device;
+                    SelectedMicrophone = true;
+                }
+                x += 22;
+            }
+            GUILayout.EndVertical();
+        }
+
+        if (useVoiceInput && isRecording)
+        {
+            GUI.color = Color.red;
+            GUI.Label(new Rect(10, 30, 500, 100), "Microphone is on.");
+            MicOn.SetActive(true);
+            MicOff.SetActive(false);
+
+            if (GUI.Button(new Rect(10, Screen.height - 110, 100, 100), "Mic off"))
+            {
+                StopSTT();
+            }
+        }
+        else
+        {
+            GUI.color = Color.green;
+            MicOff.SetActive(true);
+            MicOn.SetActive(false);
         }
     }
 
@@ -253,58 +376,5 @@ public class MicrophoneRecorder : MonoBehaviour
 
         yield return new WaitForSeconds(1);
 
-    }
-
-    private void OnGUI()
-    {
-        // For WebGL
-        // https://github.com/tgraupmann/UnityWebGLMicrophone
-        // https://docs.unity3d.com/Manual/webgl-interactingwithbrowserscripting.html
-        if (!SelectedMicrophone)
-        {
-            var x = 10;
-            GUILayout.BeginVertical(GUILayout.ExpandWidth(true));
-            
-            GUI.color = Color.green;
-            GUILayout.Label("Mikrofon auswählen:");
-            GUI.color = Color.white;
-
-            foreach (var device in Microphone.devices)
-            {
-                
-                if (GUILayout.Button(device, GUILayout.ExpandWidth(true)))
-                {
-                    //StartRecording(device);
-                    SelectedMicrophoneDevice = device;
-                    SelectedMicrophone = true;
-                }
-                x += 22;
-            }
-            GUILayout.EndVertical();
-        }
-
-        if (isRecording)
-        {
-
-            GUI.color = Color.red;
-
-            GUI.Label(new Rect(10, 30, 500, 100), "Mikrofon ist an.");
-            // Draw MicOn Texture bottom center of the screen
-            MicOn.SetActive(true);
-            MicOff.SetActive(false);
-
-            // Button to stop recording at bottom center of the screen
-            if (GUI.Button(new Rect(10, Screen.height - 110, 100, 100), "Mic off"))
-            {
-                StopSTT();
-            }
-
-
-            //MobileSpecificSettings.Instance.InfoText.SetText("Jetzt bitte sprechen.");
-        }else{
-            GUI.color = Color.green;
-            MicOff.SetActive(true);
-            MicOn.SetActive(false);
-        }
     }
 }

@@ -7,11 +7,13 @@ using UnityEngine.SceneManagement;
 
 public class Agent : MonoBehaviour
 {
-
     public TTSAPI TextToSpeech;
     public NLPAPI LanguageProcessing;
     public MicrophoneRecorder SpeechToText;
 
+    public GameObject robot; // Reference to the GameObject you want to move
+    public GameObject hannah;
+    public static bool hannahActive = true;
     public AgentState State = AgentState.Start;
 
     private int NumberOfAPICalls = 0;
@@ -51,6 +53,7 @@ public class Agent : MonoBehaviour
     };
 
     public TMP_InputField UsernameInputField;
+
     public string Username = "Peter";
     private bool Username_Confirmed = false;
 
@@ -163,6 +166,22 @@ public class Agent : MonoBehaviour
         Username_Confirmed = true;
     }
 
+    public void AgentSwap()
+    {
+        if (hannahActive)
+        { 
+            robot.transform.position = Vector3.zero;
+            hannah.transform.position = new Vector3(-10, 0, 0);
+        }
+        else
+        {
+            hannah.transform.position = Vector3.zero;
+            robot.transform.position = new Vector3(-10, 0, 0);
+        }
+        hannahActive = !hannahActive;
+        Debug.Log("AgentSwap button clicked.");
+    }
+
     private void OnGUI()
     {
         
@@ -188,6 +207,13 @@ public class Agent : MonoBehaviour
 
                 ChatExample_Script.StartChatExample(Username, true);
             }
+
+            if (GUI.Button(new Rect(10, 180, 350, 40), "Change Agent"))
+            {
+                AgentSwap();
+            }
+
+            
         }
 
         else
@@ -202,6 +228,8 @@ public class Agent : MonoBehaviour
             {
                 Application.Quit();
             }
+
+            
         }
     }
 }
