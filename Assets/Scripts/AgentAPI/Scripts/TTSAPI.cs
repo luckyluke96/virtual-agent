@@ -14,7 +14,8 @@ public class TTSAPI : MonoBehaviour
     public enum GenderVoice
     {
         female,
-        male
+        male,
+        neutral
     }
 
     [SerializeField]
@@ -79,9 +80,11 @@ public class TTSAPI : MonoBehaviour
         {
             voiceGenderLocalization = "nova";
         }
-        else
+        else if (genderVoice == GenderVoice.male)
         {
             voiceGenderLocalization = "onyx";
+        }else {
+            voiceGenderLocalization = "alloy";
         }
 
 

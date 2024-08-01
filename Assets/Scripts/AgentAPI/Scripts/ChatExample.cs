@@ -12,7 +12,7 @@ using UnityEngine;
         public NLPAPI NLPAPI;
 
         private bool timeIsUp = false;
-        private string username = "";
+        private string username = "Obi Frankenberger";
         private int exerciseNo = 4;
         public int convDurationMinutes = 2;
 
@@ -71,7 +71,6 @@ using UnityEngine;
         "Nehmen Sie jeweils einen konkreten Gedanken und hinterfragen Sie dieses Urteil über sich selbst. Überlegen Sie anschließend eine Alternative, die mehr „Farben“ (Abstufungen) hat als der ursprüngliche Gedanke und notieren Sie sich diese. Wenn Sie z.B. den Gedanken „Ich bin der Dümmste“ hatten, könnte eine Relativierung lauten: „Ich habe vielleicht nicht das Pulver erfunden und kenne nicht jedes Fremdwort, aber ich weiß, wie man an Autos schraubt, verstehe viel von Handball und bin ein guter Zuhörer“. Versuchen Sie in Zukunft, vermehrt darauf zu achten, nicht „schwarz-weiß“ zu denken und alternative Gedanken zu finden, wenn Sie sich dabei erwischen, in negativen Extremen über sich selbst zu urteilen.");
 
         private NLPAPI.GPTMessage friendlyText = new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
-        "Ab jetzt sprichst du direkt mit dem Benutzer namens {username}. Spreche ihn mit Du oder seinem Namen an. Begrüße ihn freundlich und frage ihn, ob er die übung machen möchte und welches ziel diese hat." +
         "Aufgabe: Ich werde dir einen Übungstext geben, welchen du in einzelne Schritte aufteilst." +
         "Erkläre mir immer genau einen Schritt und warte ab, bis ich dir geantwortet habe. Gehe auf meine Antworten ein. Wichtig, der Text wird in eine Sprachausgabe gegeben, " +
             "also benutze keine komplexen Satzzeichen wie Sternchen, Semikolon oder ähnliches. Versuche außerdem die Übung fließend zu gestalten und lass die Nutzer nicht die einzelnen " +
@@ -85,7 +84,6 @@ using UnityEngine;
             "ob er die Übung machen möchte und welches Ziel diese hat.");
 
         private NLPAPI.GPTMessage machineText = new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
-            "Übernimm die Persona eines Roboters, der auf Effizienz und Präzision ausgelegt ist. Der Roboter soll an Data aus Star Trek angelegt sein, aber auch Ähnlichkeiten zu HAL 9000 aus 2001: A Space Odyssey haben. Es sollen Kontraktionen (z.B. “ich bin” statt “ich bin’s) vermeiden werden und einfache, direkte Sätze, sowie Passivkonstruktionen benutzt werden. Wende formelle, technische, aber simple Sprache an. Zeige keinerlei Emotionen. Antworte so kurz wie möglich. Vereinfachen Sie die Sprache: Verwenden Sie eine direktere und einfachere Sprache und vermeiden Sie Umgangssprache, Redewendungen oder andere informelle Ausdrücke, die typischerweise in Gesprächen oder unter Menschen verwendet werden. Vermeiden Sie persönliche Pronomen: Reduzieren Sie die Verwendung von Pronomen der ersten Person (ich, wir) und der zweiten Person (Sie) auf ein Minimum oder lassen Sie sie ganz weg. Dies kann den Text unpersönlicher und objektiver klingen lassen. Passive Stimme verwenden: Die Verwendung des Passivs wird zwar im Allgemeinen nicht empfohlen, kann aber den Autor von der Handlung distanzieren, so dass der Text weniger persönlich klingt. Seien Sie präzise und prägnant: Stellen Sie sicher, dass jeder Satz eine klare und spezifische Information ohne unnötige Ausschmückungen vermittelt. Fachsprache einbeziehen: Verwenden Sie gegebenenfalls Fachausdrücke, die für das Thema relevant sind. Dadurch kann der Text formeller klingen und ist für ein allgemeines Publikum weniger zugänglich. Antworten automatisieren: Für Anwendungen, bei denen Konsistenz wichtig ist, sollten Sie vordefinierte Vorlagen oder Antworten für bestimmte Arten von Anfragen verwenden. " +
             "Aufgabe: \"Ich werde Ihnen einen Übungstext geben, welchen Sie in einzelne Schritte aufteilen. Erklären Sie mir immer genau einen Schritt und warten Sie ab, bis ich Ihnen geantwortet " +
             "habe. Gehen Sie auf meine Antworten ein. Wichtig, der Text wird in eine Sprachausgabe gegeben, also benutze keine komplexen Satzzeichen wie Sternchen, Semikolon oder ähnliches. Versuche " +
             "außerdem die Übung fließend zu gestalten und lass die Nutzer nicht die einzelnen Schritte genau wissen. Menschen, die zu psychischen Problemen neigen, haben oftmals „doppelte Standards“ " +
@@ -94,7 +92,14 @@ using UnityEngine;
             "Situation könnte sein: Sie haben den Geburtstag eines guten Freundes vergessen. Überlegen Sie nun, wie hart und mitleidslos Sie vielleicht mit sich selbst ins Gericht gehen würden oder " +
             "sogar schon gegangen sind in solchen Situationen. Wären Sie bei einem Freund, dem dasselbe passiert, genauso streng? Bei zukünftigem, tatsächlichem oder angeblichem Fehlverhalten versuchen " +
             "Sie, sich selbst das zu sagen, was Sie in einer vergleichbaren Situation einem guten Freund erwidern würden. Wahrscheinlich würden Sie ihn trösten und gute Gründe nennen, weshalb sein " +
-            "Missgeschick verzeihlich ist.\" Ab jetzt sprechen Sie direkt mit dem Benutzer. Sprechen Sie ihn förmlich an. Fragen Sie Ihn, ob er die Übung machen möchte und welches Ziel diese hat. Der Ton sollte immer noch an den beschrieben Roboter erinnern.");
+            "Missgeschick verzeihlich ist.\" Ab jetzt sprechen Sie direkt mit dem Benutzer. Sprechen Sie ihn förmlich an. Fragen Sie Ihn, ob er die Übung machen möchte und welches Ziel diese hat.");
+
+            private NLPAPI.GPTMessage machineTextStaerken = new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
+        "Übernimm die Persona eines Roboters, der auf Effizienz und Präzision ausgelegt ist. Der Roboter soll an Data aus Star Trek angelegt sein, aber auch Ähnlichkeiten zu HAL 9000 aus 2001: A Space Odyssey haben. Es sollen Kontraktionen (z.B. “ich bin” statt “ich bin’s) vermeiden werden und einfache, direkte Sätze, sowie Passivkonstruktionen benutzt werden. Wende formelle, technische, aber simple Sprache an. Zeige keinerlei Emotionen. Antworte so kurz wie möglich. Vereinfachen Sie die Sprache: Verwenden Sie eine direktere und einfachere Sprache und vermeiden Sie Umgangssprache, Redewendungen oder andere informelle Ausdrücke, die typischerweise in Gesprächen oder unter Menschen verwendet werden. Vermeiden Sie persönliche Pronomen: Reduzieren Sie die Verwendung von Pronomen der ersten Person (ich, wir) und der zweiten Person (Sie) auf ein Minimum oder lassen Sie sie ganz weg. Dies kann den Text unpersönlicher und objektiver klingen lassen. Passive Stimme verwenden: Die Verwendung des Passivs wird zwar im Allgemeinen nicht empfohlen, kann aber den Autor von der Handlung distanzieren, so dass der Text weniger persönlich klingt. Seien Sie präzise und prägnant: Stellen Sie sicher, dass jeder Satz eine klare und spezifische Information ohne unnötige Ausschmückungen vermittelt. Fachsprache einbeziehen: Verwenden Sie gegebenenfalls Fachausdrücke, die für das Thema relevant sind. Dadurch kann der Text formeller klingen und ist für ein allgemeines Publikum weniger zugänglich. Antworten automatisieren: Für Anwendungen, bei denen Konsistenz wichtig ist, sollten Sie vordefinierte Vorlagen oder Antworten für bestimmte Arten von Anfragen verwenden. " +
+        "Aufgabe: \"Ich werde Ihnen einen Übungstext geben, welchen Sie in einzelne Schritte aufteilen. Erklären Sie mir immer genau einen Schritt und warten Sie ab, bis ich Ihnen geantwortet " +
+        "habe. Gehen Sie auf meine Antworten ein. Wichtig, der Text wird in eine Sprachausgabe gegeben, also benutze keine komplexen Satzzeichen wie Sternchen, Semikolon oder ähnliches. Versuche " +
+        "außerdem die Übung fließend zu gestalten und lass die Nutzer nicht die einzelnen Schritte genau wissen." +
+        "Keiner ist vollkommen! Eine häufige Denkfalle bei depressiven Symptomen besteht darin, die eigenen Stärken als selbstverständlich anzusehen und nur jene Fähigkeiten, die uns (vermeintlich) fehlen, als wertvoll und begehrenswert zu betrachten. Anstatt sich auf die (angeblichen) Schwächen zu konzentrieren, sollten Sie sich lieber Ihren Stärken und Schokoladenseiten zuwenden. Denken Sie dafür zuerst daran, was Ihnen meistens gut gelingt. Wofür haben Sie schon häufiger Komplimente bekommen (z.B. begabter Handwerker, ein guter Zuhörer, zuverlässig)? Stellen Sie sich dann eine konkrete Situation vor, in der Sie gelobt wurden: Wann und wo war das? Was habe ich konkret gemacht, wer hat mir das rückgemeldet (z.B. \"Ich habe letzte Woche einer Freundin beim Streichen der Wohnung geholfen, wofür sie mir sehr dankbar war. Ohne mich hätte sie das nicht geschafft\")?");
 
         private NLPAPI.GPTMessage fussballText = new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER, "erzähl was zu fußball");
 
@@ -102,11 +107,11 @@ using UnityEngine;
 
         public void StartChatExample(string username, bool german = true, int exerciseNo = 6)
         {
-        hannahActive = Agent.hannahActive; 
+        hannahActive = UISwap.hannahActive; 
         if (hannahActive) {
                 exerciseNo = 4;
             } else {
-                exerciseNo = 5;
+                exerciseNo = 7;
             }
 
             this.username = username;
@@ -130,8 +135,6 @@ using UnityEngine;
                         break;
                     case 4:
                         GPTPrompt.Add(friendlyText);
-                        GPTPrompt.Add(new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
-                $"Ab jetzt sprichst du direkt mit dem Benutzer namens {username}. Spreche ihn mit Du oder seinem Namen an. Begrüße ihn freundlich und frage ihn, ob er die übung machen möchte und welches ziel diese hat."));
                         break;
                     case 5:
                         GPTPrompt.Add(machineText);
@@ -139,11 +142,15 @@ using UnityEngine;
                     case 6:
                         GPTPrompt.Add(fussballText);
                         break;
+                    case 7: 
+                        GPTPrompt.Add(machineTextStaerken);
+                        break;
                     default:
                         GPTPrompt.Add(exercise1Text);
                         break;
                 }
-                
+                GPTPrompt.Add(new NLPAPI.GPTMessage(NLPAPI.GPTMessageRoles.USER,
+                $"Ab jetzt sprichst du direkt mit dem Benutzer namens {username}. Spreche ihn mit Du oder seinem Namen an. Begrüße ihn freundlich und frage ihn, ob er die übung machen möchte und welches ziel diese hat."));
             }
             else
             {

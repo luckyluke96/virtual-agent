@@ -1245,7 +1245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sourceLipSync: {fileID: 1146959483}
-  genderVoice: 0
+  genderVoice: 2
   AddDelayToAudio: 0
   delayForSyncing: 0
 --- !u!82 &885818943
